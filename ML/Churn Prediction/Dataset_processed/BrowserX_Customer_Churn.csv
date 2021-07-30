@@ -1,0 +1,1202 @@
+,Customer ID,Customer Email,Purchase month,Number of user seats bought,Number of users added ,Total number of logins ,Customer Region,Total number of desktop sessions ran every month,Total number of mobile sessions ran every month,Month churned,Month repurchased,Month after which left,churned
+0,11001,poole@xyz.com,January,2,2,16,North America,30,16,Not Left,Not Repurchased,Not Left,NO
+1,11002,billy@yahoo.com,January,10,4,8,North America,68,12,February,Not Repurchased,1,YES
+2,11003,sophie@yahoo.com,January,10,4,8,North America,40,4,February,Not Repurchased,1,YES
+3,11004,howard@xyz.com,January,2,2,14,Europe,16,20,Not Left,Not Repurchased,Not Left,NO
+4,11005,stewart@yahoo.com,January,10,2,4,Asia,12,8,February,Not Repurchased,1,YES
+5,11006,ince@xyz.com,January,5,5,30,North America,80,50,Not Left,Not Repurchased,Not Left,NO
+6,11007,lawrence@xyz.com,January,5,5,30,North America,15,45,Not Left,Not Repurchased,Not Left,NO
+7,11008,knox@xyz.com,January,5,5,40,North America,5,40,Not Left,Not Repurchased,Not Left,NO
+8,11009,lewis@xyz.com,January,5,5,45,North America,45,45,Not Left,Not Repurchased,Not Left,NO
+9,11010,ross@xyz.com,January,1,1,8,Europe,8,9,Not Left,Not Repurchased,Not Left,NO
+10,11011,arnold@xyz.com,January,5,5,30,Europe,40,50,Not Left,Not Repurchased,Not Left,NO
+11,11012,paterson@xyz.com,January,10,8,48,North America,8,64,Not Left,Not Repurchased,Not Left,NO
+12,11013,chapman@xyz.com,January,2,2,16,Europe,30,20,Not Left,Not Repurchased,Not Left,NO
+13,11014,knox@xyz.com,January,10,7,42,North America,70,70,Not Left,Not Repurchased,Not Left,NO
+14,11015,kristina@yahoo.com,January,1,1,1,North America,11,4,February,March,1,NO
+15,11016,timmy@yahoo.com,January,1,1,2,North America,5,2,February,April,1,NO
+16,11017,sharp@xyz.com,January,5,5,35,Europe,80,40,Not Left,Not Repurchased,Not Left,NO
+17,11018,lee@xyz.com,January,1,1,9,North America,14,8,Not Left,Not Repurchased,Not Left,NO
+18,11019,mcdonald@xyz.com,January,1,1,7,Europe,14,9,Not Left,Not Repurchased,Not Left,NO
+19,11020,parr@xyz.com,January,10,8,72,Europe,40,72,Not Left,Not Repurchased,Not Left,NO
+20,11021,joanna@yahoo.com,January,2,1,1,Asia,20,3,February,Not Repurchased,1,YES
+21,11022,marco@yahoo.com,January,2,1,1,Asia,6,3,April,Not Repurchased,3,YES
+22,11023,kerr@xyz.com,January,5,5,45,North America,40,45,Not Left,Not Repurchased,Not Left,NO
+23,11024,terrence@yahoo.com,January,1,1,1,Asia,7,5,February,Not Repurchased,1,YES
+24,11025,walsh@xyz.com,January,2,2,12,North America,32,18,Not Left,Not Repurchased,Not Left,NO
+25,11026,abraham@xyz.com,January,5,5,35,North America,70,45,Not Left,Not Repurchased,Not Left,NO
+26,11027,nolan@xyz.com,January,2,2,12,Europe,32,18,Not Left,Not Repurchased,Not Left,NO
+27,11028,duncan@xyz.com,January,2,2,12,North America,18,16,Not Left,Not Repurchased,Not Left,NO
+28,11029,ruby@yahoo.com,January,10,3,3,North America,3,12,February,Not Repurchased,1,YES
+29,11030,powell@xyz.com,January,2,2,18,North America,8,16,Not Left,Not Repurchased,Not Left,NO
+30,11031,mcgrath@xyz.com,January,10,8,48,North America,72,72,Not Left,Not Repurchased,Not Left,NO
+31,11032,lucas@yahoo.com,January,1,1,1,Asia,2,3,March,Not Repurchased,2,YES
+32,11033,allan@xyz.com,January,2,2,12,North America,32,20,Not Left,Not Repurchased,Not Left,NO
+33,11034,churchill@xyz.com,January,1,1,8,North America,17,10,Not Left,Not Repurchased,Not Left,NO
+34,11035,black@xyz.com,January,5,5,30,Asia,45,50,Not Left,Not Repurchased,Not Left,NO
+35,11036,ferguson@xyz.com,January,10,10,60,North America,90,80,Not Left,Not Repurchased,Not Left,NO
+36,11037,cameron@xyz.com,January,1,1,9,Asia,1,10,Not Left,Not Repurchased,Not Left,NO
+37,11038,mclean@xyz.com,January,5,4,24,North America,12,32,Not Left,Not Repurchased,Not Left,NO
+38,11039,james@xyz.com,January,2,2,12,Asia,28,18,Not Left,Not Repurchased,Not Left,NO
+39,11040,wilbur@yahoo.com,January,2,1,2,Asia,12,3,March,Not Repurchased,2,YES
+40,11041,cameron@xyz.com,January,2,2,18,North America,16,16,Not Left,Not Repurchased,Not Left,NO
+41,11042,underwood@xyz.com,January,10,8,64,North America,0,72,Not Left,Not Repurchased,Not Left,NO
+42,11043,chapman@xyz.com,January,1,1,8,North America,7,10,Not Left,Not Repurchased,Not Left,NO
+43,11044,grant@xyz.com,January,5,4,28,North America,72,40,Not Left,Not Repurchased,Not Left,NO
+44,11045,slater@xyz.com,January,2,2,16,North America,36,18,Not Left,Not Repurchased,Not Left,NO
+45,11046,roberts@xyz.com,January,1,1,6,Europe,9,8,Not Left,Not Repurchased,Not Left,NO
+46,11047,tucker@xyz.com,January,1,1,9,North America,16,8,Not Left,Not Repurchased,Not Left,NO
+47,11048,jeff@yahoo.com,January,5,1,1,Asia,3,2,February,Not Repurchased,1,YES
+48,11049,orville@yahoo.com,January,5,1,1,North America,14,4,February,Not Repurchased,1,YES
+49,11050,mackay@xyz.com,January,5,5,35,North America,35,50,Not Left,Not Repurchased,Not Left,NO
+50,11051,edmund@yahoo.com,January,1,1,1,North America,16,3,February,April,1,NO
+51,11052,edgar@yahoo.com,January,10,3,3,Asia,3,12,March,Not Repurchased,2,YES
+52,11053,ince@xyz.com,January,2,2,18,North America,16,16,Not Left,Not Repurchased,Not Left,NO
+53,11054,shelly@yahoo.com,January,10,4,4,North America,40,4,February,Not Repurchased,1,YES
+54,11055,alsop@xyz.com,January,1,1,9,North America,20,8,Not Left,Not Repurchased,Not Left,NO
+55,11056,may@xyz.com,January,1,1,9,Europe,16,9,Not Left,Not Repurchased,Not Left,NO
+56,11057,hart@xyz.com,January,10,9,54,Europe,144,72,Not Left,Not Repurchased,Not Left,NO
+57,11058,dwight@yahoo.com,January,5,1,2,Asia,13,5,February,Not Repurchased,1,YES
+58,11059,ellison@xyz.com,January,1,1,7,North America,3,8,Not Left,Not Repurchased,Not Left,NO
+59,11060,smith@xyz.com,January,5,3,24,North America,15,27,Not Left,Not Repurchased,Not Left,NO
+60,11061,bower@xyz.com,January,5,5,40,Asia,100,45,Not Left,Not Repurchased,Not Left,NO
+61,11062,walsh@xyz.com,January,10,8,64,Europe,0,64,Not Left,Not Repurchased,Not Left,NO
+62,11063,tucker@xyz.com,January,2,2,18,North America,28,16,Not Left,Not Repurchased,Not Left,NO
+63,11064,ball@xyz.com,January,10,10,80,North America,60,100,Not Left,Not Repurchased,Not Left,NO
+64,11065,glover@xyz.com,January,5,5,45,North America,65,45,Not Left,Not Repurchased,Not Left,NO
+65,11066,rees@xyz.com,January,10,9,72,Asia,108,81,Not Left,Not Repurchased,Not Left,NO
+66,11067,forsyth@xyz.com,January,5,5,45,North America,40,40,Not Left,Not Repurchased,Not Left,NO
+67,11068,edmunds@xyz.com,January,5,5,40,North America,25,40,Not Left,Not Repurchased,Not Left,NO
+68,11069,turner@xyz.com,January,2,2,18,North America,0,20,Not Left,Not Repurchased,Not Left,NO
+69,11070,macleod@xyz.com,January,5,5,45,Asia,70,50,Not Left,Not Repurchased,Not Left,NO
+70,11071,hill@xyz.com,January,2,2,16,Europe,18,20,Not Left,Not Repurchased,Not Left,NO
+71,11072,duncan@xyz.com,January,10,8,64,Europe,8,64,Not Left,Not Repurchased,Not Left,NO
+72,11073,ogden@xyz.com,January,2,2,12,Europe,16,20,Not Left,Not Repurchased,Not Left,NO
+73,11074,mackenzie@xyz.com,January,5,5,30,North America,45,50,Not Left,Not Repurchased,Not Left,NO
+74,11075,graham@xyz.com,January,1,1,6,North America,5,9,Not Left,Not Repurchased,Not Left,NO
+75,11076,russell@xyz.com,January,2,2,14,North America,6,20,Not Left,Not Repurchased,Not Left,NO
+76,11077,ogden@xyz.com,January,1,1,7,North America,11,9,Not Left,Not Repurchased,Not Left,NO
+77,11078,white@xyz.com,January,2,2,18,North America,30,18,Not Left,Not Repurchased,Not Left,NO
+78,11079,maryann@yahoo.com,January,2,1,2,Asia,4,2,February,Not Repurchased,1,YES
+79,11080,amelia@yahoo.com,January,1,1,1,North America,6,1,February,Not Repurchased,1,YES
+80,11081,watson@xyz.com,January,2,2,12,North America,14,18,Not Left,Not Repurchased,Not Left,NO
+81,11082,sean@yahoo.com,January,2,1,2,Asia,18,5,February,Not Repurchased,1,YES
+82,11083,skinner@xyz.com,January,5,5,45,North America,90,45,Not Left,Not Repurchased,Not Left,NO
+83,11084,johnston@xyz.com,January,5,4,36,Europe,12,32,Not Left,Not Repurchased,Not Left,NO
+84,11085,nolan@xyz.com,January,10,9,63,North America,135,72,Not Left,Not Repurchased,Not Left,NO
+85,11086,heidi@yahoo.com,January,1,1,1,Europe,12,2,February,Not Repurchased,1,YES
+86,11087,skinner@xyz.com,January,1,1,7,North America,15,10,Not Left,Not Repurchased,Not Left,NO
+87,11088,lambert@xyz.com,January,2,2,14,North America,4,18,Not Left,Not Repurchased,Not Left,NO
+88,11089,jones@xyz.com,January,10,7,42,North America,56,70,Not Left,Not Repurchased,Not Left,NO
+89,11090,wilson@xyz.com,January,2,2,18,Asia,20,18,Not Left,Not Repurchased,Not Left,NO
+90,11091,macdonald@xyz.com,January,10,10,70,North America,130,80,Not Left,Not Repurchased,Not Left,NO
+91,11092,james@xyz.com,January,1,1,7,North America,15,9,Not Left,Not Repurchased,Not Left,NO
+92,11093,coleman@xyz.com,January,10,10,90,North America,120,90,Not Left,Not Repurchased,Not Left,NO
+93,11094,esther@yahoo.com,January,2,1,1,Asia,17,4,April,Not Repurchased,3,YES
+94,11095,hunter@xyz.com,January,10,7,63,Europe,112,63,Not Left,Not Repurchased,Not Left,NO
+95,11096,ross@xyz.com,January,5,5,45,North America,65,45,Not Left,Not Repurchased,Not Left,NO
+96,11097,watson@xyz.com,January,10,10,90,North America,120,90,Not Left,Not Repurchased,Not Left,NO
+97,11098,vance@xyz.com,January,2,2,16,Europe,14,20,Not Left,Not Repurchased,Not Left,NO
+98,11099,stewart@xyz.com,January,10,7,42,North America,105,70,Not Left,Not Repurchased,Not Left,NO
+99,11100,parsons@xyz.com,January,10,7,42,North America,84,70,Not Left,Not Repurchased,Not Left,NO
+100,11101,caroline@yahoo.com,January,1,1,1,Europe,7,1,February,Not Repurchased,1,YES
+101,11102,avery@xyz.com,January,10,7,42,North America,56,56,Not Left,Not Repurchased,Not Left,NO
+102,11103,mathis@xyz.com,January,5,5,40,North America,35,50,Not Left,Not Repurchased,Not Left,NO
+103,11104,juanita@yahoo.com,January,1,1,2,North America,17,4,February,March,1,NO
+104,11105,janis@yahoo.com,January,2,1,2,Asia,5,3,April,Not Repurchased,3,YES
+105,11106,ellison@xyz.com,January,2,2,14,Asia,26,16,Not Left,Not Repurchased,Not Left,NO
+106,11107,fraser@xyz.com,January,10,10,90,North America,100,100,Not Left,Not Repurchased,Not Left,NO
+107,11108,gina@yahoo.com,January,1,1,1,Asia,20,4,March,Not Repurchased,2,YES
+108,11109,kelly@xyz.com,January,5,5,40,Europe,75,50,Not Left,Not Repurchased,Not Left,NO
+109,11110,mitchell@xyz.com,January,10,7,49,Europe,70,56,Not Left,Not Repurchased,Not Left,NO
+110,11111,rampling@xyz.com,January,10,7,49,North America,112,70,Not Left,Not Repurchased,Not Left,NO
+111,11112,forsyth@xyz.com,January,1,1,9,North America,15,9,Not Left,Not Repurchased,Not Left,NO
+112,11113,sarah@yahoo.com,January,1,1,1,Europe,2,5,February,Not Repurchased,1,YES
+113,11114,dallas@yahoo.com,January,1,1,2,Asia,12,3,February,Not Repurchased,1,YES
+114,11115,robertson@xyz.com,January,10,7,56,North America,140,56,Not Left,Not Repurchased,Not Left,NO
+115,11116,lewis@xyz.com,January,10,8,64,North America,104,72,Not Left,Not Repurchased,Not Left,NO
+116,11117,marshall@xyz.com,January,5,5,45,Europe,0,40,Not Left,Not Repurchased,Not Left,NO
+117,11118,johnston@xyz.com,January,5,5,40,Asia,65,50,Not Left,Not Repurchased,Not Left,NO
+118,11119,walsh@xyz.com,January,2,2,18,North America,36,20,Not Left,Not Repurchased,Not Left,NO
+119,11120,knox@xyz.com,January,1,1,7,North America,17,9,Not Left,Not Repurchased,Not Left,NO
+120,11121,skinner@xyz.com,January,2,2,18,North America,30,18,Not Left,Not Repurchased,Not Left,NO
+121,11122,mills@xyz.com,January,1,1,7,North America,11,10,Not Left,Not Repurchased,Not Left,NO
+122,11123,allen@yahoo.com,January,1,1,2,Asia,17,5,February,Not Repurchased,1,YES
+123,11124,bailey@xyz.com,January,10,8,48,North America,64,72,Not Left,Not Repurchased,Not Left,NO
+124,11125,kayla@yahoo.com,January,1,1,1,Europe,6,5,February,April,1,NO
+125,11126,morgan@xyz.com,January,5,5,35,North America,95,40,Not Left,Not Repurchased,Not Left,NO
+126,11127,dowd@xyz.com,January,1,1,8,North America,8,8,Not Left,Not Repurchased,Not Left,NO
+127,11128,shirley@yahoo.com,January,5,1,1,North America,6,5,February,Not Repurchased,1,YES
+128,11129,sue@yahoo.com,January,1,1,1,Asia,10,1,March,Not Repurchased,2,YES
+129,11130,oliver@xyz.com,January,10,8,64,Asia,48,72,Not Left,Not Repurchased,Not Left,NO
+130,11131,lillie@yahoo.com,January,10,2,4,Asia,8,4,February,Not Repurchased,1,YES
+131,11132,morrison@xyz.com,January,1,1,8,North America,17,8,Not Left,Not Repurchased,Not Left,NO
+132,11133,martin@xyz.com,January,2,2,12,North America,28,18,Not Left,Not Repurchased,Not Left,NO
+133,11134,reid@xyz.com,January,10,8,72,North America,56,64,Not Left,Not Repurchased,Not Left,NO
+134,11135,earnest@yahoo.com,January,5,1,1,Asia,7,4,February,Not Repurchased,1,YES
+135,11136,otis@yahoo.com,January,1,1,1,Asia,8,1,February,Not Repurchased,1,YES
+136,11137,payne@xyz.com,January,2,2,16,Europe,8,18,Not Left,Not Repurchased,Not Left,NO
+137,11138,ince@xyz.com,January,10,10,70,Asia,90,80,Not Left,Not Repurchased,Not Left,NO
+138,11139,rees@xyz.com,January,5,5,30,North America,80,45,Not Left,Not Repurchased,Not Left,NO
+139,11140,carrie@yahoo.com,January,2,1,1,Asia,15,1,February,Not Repurchased,1,YES
+140,11141,clark@xyz.com,January,1,1,8,Asia,14,10,Not Left,Not Repurchased,Not Left,NO
+141,11142,hart@xyz.com,January,10,9,63,North America,63,90,Not Left,Not Repurchased,Not Left,NO
+142,11143,underwood@xyz.com,January,5,4,32,North America,44,40,Not Left,Not Repurchased,Not Left,NO
+143,11144,cornish@xyz.com,January,2,2,12,North America,24,20,Not Left,Not Repurchased,Not Left,NO
+144,11145,jerald@yahoo.com,January,1,1,1,Asia,10,1,February,Not Repurchased,1,YES
+145,11146,henderson@xyz.com,January,5,5,45,North America,30,45,Not Left,Not Repurchased,Not Left,NO
+146,11147,micheal@yahoo.com,January,5,1,2,Asia,9,2,February,Not Repurchased,1,YES
+147,11148,dean@yahoo.com,January,1,1,2,North America,2,4,February,Not Repurchased,1,YES
+148,11149,graham@xyz.com,January,5,5,45,Europe,75,50,Not Left,Not Repurchased,Not Left,NO
+149,11150,quinn@xyz.com,January,10,7,63,Europe,42,56,Not Left,Not Repurchased,Not Left,NO
+150,11151,rutherford@xyz.com,January,5,5,35,North America,45,40,Not Left,Not Repurchased,Not Left,NO
+151,11152,lee@xyz.com,January,5,4,28,North America,68,36,Not Left,Not Repurchased,Not Left,NO
+152,11153,smith@xyz.com,January,5,4,28,Europe,72,40,Not Left,Not Repurchased,Not Left,NO
+153,11154,muriel@yahoo.com,January,5,1,1,Asia,8,3,March,Not Repurchased,2,YES
+154,11155,lana@yahoo.com,January,1,1,1,North America,13,5,February,March,1,NO
+155,11156,pullman@xyz.com,January,10,7,42,Asia,98,70,Not Left,Not Repurchased,Not Left,NO
+156,11157,forsyth@xyz.com,January,2,2,16,Europe,40,20,Not Left,Not Repurchased,Not Left,NO
+157,11158,watson@xyz.com,January,2,2,14,North America,24,18,Not Left,Not Repurchased,Not Left,NO
+158,11159,piper@xyz.com,January,10,9,63,North America,27,72,Not Left,Not Repurchased,Not Left,NO
+159,11160,thomson@xyz.com,January,5,5,40,Europe,20,50,Not Left,Not Repurchased,Not Left,NO
+160,11161,april@yahoo.com,January,1,1,2,North America,17,5,February,March,1,NO
+161,11162,andres@yahoo.com,January,1,1,2,Europe,0,3,February,Not Repurchased,1,YES
+162,11163,mills@xyz.com,January,10,8,56,Europe,144,80,Not Left,Not Repurchased,Not Left,NO
+163,11164,rudy@yahoo.com,January,10,3,6,Asia,39,9,February,Not Repurchased,1,YES
+164,11165,sutherland@xyz.com,January,1,1,6,Europe,4,8,Not Left,Not Repurchased,Not Left,NO
+165,11166,mcgrath@xyz.com,January,2,2,16,North America,40,16,Not Left,Not Repurchased,Not Left,NO
+166,11167,vaughan@xyz.com,January,10,9,54,North America,27,90,Not Left,Not Repurchased,Not Left,NO
+167,11168,jackson@xyz.com,January,1,1,9,Europe,19,9,Not Left,Not Repurchased,Not Left,NO
+168,11169,reid@xyz.com,January,10,7,42,Europe,91,70,Not Left,Not Repurchased,Not Left,NO
+169,11170,margarita@yahoo.com,January,1,1,2,Asia,0,3,March,Not Repurchased,2,YES
+170,11171,kelly@xyz.com,January,2,2,18,North America,6,18,Not Left,Not Repurchased,Not Left,NO
+171,11172,sutherland@xyz.com,January,5,4,28,North America,76,36,Not Left,Not Repurchased,Not Left,NO
+172,11173,elisa@yahoo.com,January,10,3,3,Asia,21,9,February,Not Repurchased,1,YES
+173,11174,chapman@xyz.com,January,1,1,7,Asia,4,10,Not Left,Not Repurchased,Not Left,NO
+174,11175,manning@xyz.com,January,2,2,18,Europe,22,20,Not Left,Not Repurchased,Not Left,NO
+175,11176,miller@xyz.com,January,2,2,18,North America,34,18,Not Left,Not Repurchased,Not Left,NO
+176,11177,forrest@yahoo.com,January,1,1,1,Asia,6,4,April,Not Repurchased,3,YES
+177,11178,robertson@xyz.com,January,10,7,49,North America,21,56,Not Left,Not Repurchased,Not Left,NO
+178,11179,mitchell@xyz.com,January,2,2,12,North America,14,16,Not Left,Not Repurchased,Not Left,NO
+179,11180,lawrence@xyz.com,January,5,4,36,North America,20,40,Not Left,Not Repurchased,Not Left,NO
+180,11181,james@xyz.com,January,2,2,16,Europe,2,18,Not Left,Not Repurchased,Not Left,NO
+181,11182,enrique@yahoo.com,January,1,1,1,Asia,14,2,April,Not Repurchased,3,YES
+182,11183,james@xyz.com,January,2,2,12,North America,22,16,Not Left,Not Repurchased,Not Left,NO
+183,11184,hamilton@xyz.com,January,5,4,32,North America,68,36,Not Left,Not Repurchased,Not Left,NO
+184,11185,russell@xyz.com,January,1,1,9,North America,8,8,Not Left,Not Repurchased,Not Left,NO
+185,11186,robertson@xyz.com,January,10,7,42,North America,84,56,Not Left,Not Repurchased,Not Left,NO
+186,11187,parsons@xyz.com,January,2,2,18,North America,10,18,Not Left,Not Repurchased,Not Left,NO
+187,11188,randall@xyz.com,January,10,9,72,North America,9,72,Not Left,Not Repurchased,Not Left,NO
+188,11189,bell@xyz.com,January,1,1,9,North America,5,9,Not Left,Not Repurchased,Not Left,NO
+189,11190,lawrence@xyz.com,January,10,8,48,North America,112,80,Not Left,Not Repurchased,Not Left,NO
+190,11191,lawrence@xyz.com,January,1,1,8,North America,16,9,Not Left,Not Repurchased,Not Left,NO
+191,11192,morgan@xyz.com,January,1,1,6,Asia,18,8,Not Left,Not Repurchased,Not Left,NO
+192,11193,lee@xyz.com,January,5,5,35,North America,25,50,Not Left,Not Repurchased,Not Left,NO
+193,11194,gray@xyz.com,January,2,2,16,North America,6,20,Not Left,Not Repurchased,Not Left,NO
+194,11195,ferguson@xyz.com,January,5,4,36,Asia,12,36,Not Left,Not Repurchased,Not Left,NO
+195,11196,graham@xyz.com,January,10,7,56,North America,49,70,Not Left,Not Repurchased,Not Left,NO
+196,11197,harris@xyz.com,January,2,2,14,Europe,36,16,Not Left,Not Repurchased,Not Left,NO
+197,11198,ellison@xyz.com,January,10,8,56,North America,32,72,Not Left,Not Repurchased,Not Left,NO
+198,11199,hill@xyz.com,January,5,5,45,Europe,40,40,Not Left,Not Repurchased,Not Left,NO
+199,11200,della@yahoo.com,January,1,1,1,North America,3,2,February,Not Repurchased,1,YES
+200,11201,wilma@yahoo.com,January,1,1,1,Europe,16,3,February,Not Repurchased,1,YES
+201,11202,roberts@xyz.com,January,5,4,24,North America,72,32,Not Left,Not Repurchased,Not Left,NO
+202,11203,graham@xyz.com,January,2,2,14,North America,26,20,Not Left,Not Repurchased,Not Left,NO
+203,11204,north@xyz.com,January,2,2,16,Asia,14,20,Not Left,Not Repurchased,Not Left,NO
+204,11205,terry@xyz.com,January,1,1,6,North America,10,8,Not Left,Not Repurchased,Not Left,NO
+205,11206,ross@xyz.com,January,10,7,42,Europe,126,56,Not Left,Not Repurchased,Not Left,NO
+206,11207,ernesto@yahoo.com,January,2,1,1,North America,18,2,February,April,1,NO
+207,11208,harry@yahoo.com,January,10,2,4,North America,36,8,February,Not Repurchased,1,YES
+208,11209,christopher@yahoo.com,January,5,1,1,North America,12,1,February,Not Repurchased,1,YES
+209,11210,north@xyz.com,January,10,8,72,North America,32,80,Not Left,Not Repurchased,Not Left,NO
+210,11211,clark@xyz.com,January,2,2,12,North America,6,18,Not Left,Not Repurchased,Not Left,NO
+211,11212,randall@xyz.com,January,1,1,7,North America,0,9,Not Left,Not Repurchased,Not Left,NO
+212,11213,harris@xyz.com,January,5,5,45,North America,25,40,Not Left,Not Repurchased,Not Left,NO
+213,11214,poole@xyz.com,January,1,1,9,Europe,20,10,Not Left,Not Repurchased,Not Left,NO
+214,11215,james@xyz.com,January,5,4,24,Europe,44,36,Not Left,Not Repurchased,Not Left,NO
+215,11216,lora@yahoo.com,January,1,1,2,Europe,17,1,February,Not Repurchased,1,YES
+216,11217,fisher@xyz.com,January,10,8,48,North America,80,80,Not Left,Not Repurchased,Not Left,NO
+217,11218,baker@xyz.com,January,5,4,36,North America,0,40,Not Left,Not Repurchased,Not Left,NO
+218,11219,hill@xyz.com,January,10,9,72,North America,90,90,Not Left,Not Repurchased,Not Left,NO
+219,11220,cameron@xyz.com,January,2,2,16,Asia,12,20,Not Left,Not Repurchased,Not Left,NO
+220,11221,matt@yahoo.com,January,1,1,2,Asia,18,1,March,Not Repurchased,2,YES
+221,11222,rosemarie@yahoo.com,January,10,2,4,North America,28,6,February,Not Repurchased,1,YES
+222,11223,vanessa@yahoo.com,January,1,1,1,Asia,10,3,March,Not Repurchased,2,YES
+223,11224,grady@yahoo.com,January,2,1,1,North America,1,2,February,Not Repurchased,1,YES
+224,11225,abraham@xyz.com,January,10,9,81,North America,144,72,Not Left,Not Repurchased,Not Left,NO
+225,11226,bell@xyz.com,January,10,9,81,North America,126,90,Not Left,Not Repurchased,Not Left,NO
+226,11227,simon@yahoo.com,January,5,1,1,North America,7,3,February,Not Repurchased,1,YES
+227,11228,reid@xyz.com,January,2,2,16,Europe,34,18,Not Left,Not Repurchased,Not Left,NO
+228,11229,white@xyz.com,January,1,1,9,North America,9,10,Not Left,Not Repurchased,Not Left,NO
+229,11230,campbell@xyz.com,January,1,1,6,North America,1,8,Not Left,Not Repurchased,Not Left,NO
+230,11231,stewart@xyz.com,January,2,2,12,Europe,0,4,Not Left,Not Repurchased,Not Left,NO
+231,11232,clarkson@xyz.com,January,1,1,6,Europe,12,10,Not Left,Not Repurchased,Not Left,NO
+232,11233,kathryn@yahoo.com,January,1,1,1,North America,7,4,February,Not Repurchased,1,YES
+233,11234,tara@yahoo.com,January,10,2,2,Asia,0,6,February,Not Repurchased,1,YES
+234,11235,miller@xyz.com,January,5,5,40,North America,25,40,Not Left,Not Repurchased,Not Left,NO
+235,11236,peters@xyz.com,January,1,1,8,North America,18,10,Not Left,Not Repurchased,Not Left,NO
+236,11237,coleman@xyz.com,January,2,2,18,North America,36,18,Not Left,Not Repurchased,Not Left,NO
+237,11238,burgess@xyz.com,January,5,4,24,North America,16,32,Not Left,Not Repurchased,Not Left,NO
+238,11239,churchill@xyz.com,January,10,10,70,North America,0,80,Not Left,Not Repurchased,Not Left,NO
+239,11240,sharp@xyz.com,January,2,2,14,Europe,22,18,Not Left,Not Repurchased,Not Left,NO
+240,11241,lyman@xyz.com,January,10,9,54,Europe,171,72,Not Left,Not Repurchased,Not Left,NO
+241,11242,henry@yahoo.com,January,5,1,1,Asia,2,5,February,Not Repurchased,1,YES
+242,11243,knox@xyz.com,January,2,2,14,North America,12,16,Not Left,Not Repurchased,Not Left,NO
+243,11244,rosa@yahoo.com,January,1,1,1,Asia,16,3,February,Not Repurchased,1,YES
+244,11245,bailey@xyz.com,January,10,9,54,Europe,144,81,Not Left,Not Repurchased,Not Left,NO
+245,11246,hughes@xyz.com,January,2,2,16,North America,40,16,Not Left,Not Repurchased,Not Left,NO
+246,11247,johnston@xyz.com,January,10,7,42,North America,0,63,Not Left,Not Repurchased,Not Left,NO
+247,11248,hudson@xyz.com,January,5,4,24,North America,44,40,Not Left,Not Repurchased,Not Left,NO
+248,11249,davidson@xyz.com,January,5,5,40,North America,80,45,Not Left,Not Repurchased,Not Left,NO
+249,11250,peters@xyz.com,January,10,9,63,North America,18,72,Not Left,Not Repurchased,Not Left,NO
+250,11251,graham@xyz.com,January,2,2,16,North America,20,18,Not Left,Not Repurchased,Not Left,NO
+251,11252,may@xyz.com,January,2,2,18,Europe,0,16,Not Left,Not Repurchased,Not Left,NO
+252,11253,taylor@xyz.com,January,2,2,16,North America,18,18,Not Left,Not Repurchased,Not Left,NO
+253,11254,cameron@xyz.com,January,10,10,70,North America,40,80,Not Left,Not Repurchased,Not Left,NO
+254,11255,newman@xyz.com,January,2,2,16,Europe,18,20,Not Left,Not Repurchased,Not Left,NO
+255,11256,macleod@xyz.com,January,2,1,6,Europe,10,8,Not Left,Not Repurchased,Not Left,NO
+256,11257,hill@xyz.com,January,2,2,18,North America,32,16,Not Left,Not Repurchased,Not Left,NO
+257,11258,johnston@xyz.com,January,5,4,24,Europe,76,32,Not Left,Not Repurchased,Not Left,NO
+258,11259,greene@xyz.com,January,1,1,6,Europe,16,9,Not Left,Not Repurchased,Not Left,NO
+259,11260,christina@yahoo.com,January,1,1,1,Asia,2,4,February,Not Repurchased,1,YES
+260,11261,mackenzie@xyz.com,January,2,2,14,North America,6,16,Not Left,Not Repurchased,Not Left,NO
+261,11262,rutherford@xyz.com,January,5,4,28,Europe,28,40,Not Left,Not Repurchased,Not Left,NO
+262,11263,oliver@xyz.com,January,2,2,12,Europe,26,20,Not Left,Not Repurchased,Not Left,NO
+263,11264,harris@xyz.com,January,5,5,40,North America,5,50,Not Left,Not Repurchased,Not Left,NO
+264,11265,payne@xyz.com,January,2,2,14,North America,36,20,Not Left,Not Repurchased,Not Left,NO
+265,11266,skinner@xyz.com,January,2,2,18,North America,32,20,Not Left,Not Repurchased,Not Left,NO
+266,11267,lyman@xyz.com,January,2,2,12,North America,2,20,Not Left,Not Repurchased,Not Left,NO
+267,11268,skinner@xyz.com,January,5,4,24,Europe,64,36,Not Left,Not Repurchased,Not Left,NO
+268,11269,jodi@yahoo.com,January,1,1,1,Asia,17,2,February,Not Repurchased,1,YES
+269,11270,cameron@xyz.com,January,1,1,9,Asia,0,10,Not Left,Not Repurchased,Not Left,NO
+270,11271,duncan@xyz.com,January,5,5,35,North America,55,45,Not Left,Not Repurchased,Not Left,NO
+271,11272,mcdonald@xyz.com,January,10,10,70,North America,150,80,Not Left,Not Repurchased,Not Left,NO
+272,11273,johnston@xyz.com,January,2,2,12,Europe,32,20,Not Left,Not Repurchased,Not Left,NO
+273,11274,mitchell@yahoo.com,January,10,3,3,North America,24,15,February,Not Repurchased,1,YES
+274,11275,carr@xyz.com,January,5,5,35,North America,70,40,Not Left,Not Repurchased,Not Left,NO
+275,11276,boyd@yahoo.com,January,1,1,2,Europe,11,5,February,Not Repurchased,1,YES
+276,11277,grant@xyz.com,January,10,10,90,Asia,100,100,Not Left,Not Repurchased,Not Left,NO
+277,11278,mcdonald@xyz.com,January,10,9,54,Europe,162,90,Not Left,Not Repurchased,Not Left,NO
+278,11279,mildred@yahoo.com,January,5,1,1,Asia,0,5,March,Not Repurchased,2,YES
+279,11280,scott@xyz.com,January,1,1,8,Europe,10,9,Not Left,Not Repurchased,Not Left,NO
+280,11281,paula@yahoo.com,January,10,3,3,North America,39,9,February,Not Repurchased,1,YES
+281,11282,gibson@xyz.com,January,2,2,16,North America,22,18,Not Left,Not Repurchased,Not Left,NO
+282,11283,russell@xyz.com,January,2,2,14,Europe,38,20,Not Left,Not Repurchased,Not Left,NO
+283,11284,hugo@yahoo.com,January,1,1,2,Asia,8,2,February,Not Repurchased,1,YES
+284,11285,randall@xyz.com,January,1,1,8,North America,7,9,Not Left,Not Repurchased,Not Left,NO
+285,11286,grant@xyz.com,January,2,2,12,Europe,16,16,Not Left,Not Repurchased,Not Left,NO
+286,11287,davidson@xyz.com,January,1,1,6,Europe,16,10,Not Left,Not Repurchased,Not Left,NO
+287,11288,edmunds@xyz.com,January,2,2,14,North America,14,20,Not Left,Not Repurchased,Not Left,NO
+288,11289,edmunds@xyz.com,January,10,9,54,Europe,36,72,Not Left,Not Repurchased,Not Left,NO
+289,11290,powell@xyz.com,January,5,5,35,North America,65,50,Not Left,Not Repurchased,Not Left,NO
+290,11291,ernest@yahoo.com,January,1,1,1,Europe,0,1,February,Not Repurchased,1,YES
+291,11292,jan@yahoo.com,January,2,1,1,North America,11,5,February,Not Repurchased,1,YES
+292,11293,carlos@yahoo.com,January,1,1,1,Europe,6,5,February,Not Repurchased,1,YES
+293,11294,ross@xyz.com,January,10,10,70,North America,120,90,Not Left,Not Repurchased,Not Left,NO
+294,11295,macdonald@xyz.com,January,1,1,8,Europe,2,9,Not Left,Not Repurchased,Not Left,NO
+295,11296,sutherland@xyz.com,January,1,1,7,North America,11,10,Not Left,Not Repurchased,Not Left,NO
+296,11297,ellison@xyz.com,January,2,2,18,North America,20,18,Not Left,Not Repurchased,Not Left,NO
+297,11298,tracy@yahoo.com,January,10,4,8,Asia,80,16,February,Not Repurchased,1,YES
+298,11299,maria@yahoo.com,January,1,1,1,Asia,15,4,February,Not Repurchased,1,YES
+299,11300,gill@xyz.com,January,5,5,40,North America,65,45,Not Left,Not Repurchased,Not Left,NO
+300,11301,mackay@xyz.com,February,10,10,80,Asia,70,90,Not Left,Not Repurchased,Not Left,NO
+301,11302,russell@xyz.com,February,10,9,63,North America,9,90,Not Left,Not Repurchased,Not Left,NO
+302,11303,may@xyz.com,February,2,2,18,North America,24,20,Not Left,Not Repurchased,Not Left,NO
+303,11304,tracy@gmail.com,February,1,1,2,Asia,0,4,March,Not Repurchased,1,YES
+304,11305,chris@gmail.com,February,2,1,1,North America,5,3,March,Not Repurchased,1,YES
+305,11306,kerr@xyz.com,February,10,10,90,North America,150,100,Not Left,Not Repurchased,Not Left,NO
+306,11307,henderson@xyz.com,February,2,2,12,Europe,24,18,Not Left,Not Repurchased,Not Left,NO
+307,11308,sutherland@xyz.com,February,1,1,7,North America,14,8,Not Left,Not Repurchased,Not Left,NO
+308,11309,teresa@gmail.com,February,1,1,2,North America,7,5,April,Not Repurchased,2,YES
+309,11310,vaughan@xyz.com,February,5,4,24,North America,32,40,Not Left,Not Repurchased,Not Left,NO
+310,11311,jane@yahoo.com,February,1,1,1,Asia,6,1,March,Not Repurchased,1,YES
+311,11312,bower@xyz.com,February,1,1,8,North America,17,10,Not Left,Not Repurchased,Not Left,NO
+312,11313,roberts@xyz.com,February,1,1,7,Europe,14,9,Not Left,Not Repurchased,Not Left,NO
+313,11314,davies@xyz.com,February,1,1,6,North America,0,10,Not Left,Not Repurchased,Not Left,NO
+314,11315,pablo@gmail.com,February,1,1,1,North America,1,2,March,Not Repurchased,1,YES
+315,11316,underwood@xyz.com,February,5,3,21,North America,45,30,Not Left,Not Repurchased,Not Left,NO
+316,11317,eunice@gmail.com,February,2,1,1,Europe,17,1,March,Not Repurchased,1,YES
+317,11318,burgess@xyz.com,February,1,1,6,North America,11,8,Not Left,Not Repurchased,Not Left,NO
+318,11319,davidson@xyz.com,February,10,9,81,Asia,99,90,Not Left,Not Repurchased,Not Left,NO
+319,11320,edmunds@xyz.com,February,2,2,12,North America,10,20,Not Left,Not Repurchased,Not Left,NO
+320,11321,thelma@gmail.com,February,10,4,4,North America,12,4,March,Not Repurchased,1,YES
+321,11322,hill@xyz.com,February,1,1,8,Europe,12,9,Not Left,Not Repurchased,Not Left,NO
+322,11323,ramon@gmail.com,February,2,1,1,North America,7,2,March,Not Repurchased,1,YES
+323,11324,marshall@xyz.com,February,5,5,35,North America,15,45,Not Left,Not Repurchased,Not Left,NO
+324,11325,morrison@xyz.com,February,10,8,72,Asia,48,64,Not Left,Not Repurchased,Not Left,NO
+325,11326,janice@gmail.com,February,5,2,2,Europe,14,6,March,Not Repurchased,1,YES
+326,11327,walsh@xyz.com,February,2,2,18,Europe,12,16,Not Left,Not Repurchased,Not Left,NO
+327,11328,kerr@xyz.com,February,5,5,35,Europe,70,45,Not Left,Not Repurchased,Not Left,NO
+328,11329,hill@xyz.com,February,10,10,80,North America,40,90,Not Left,Not Repurchased,Not Left,NO
+329,11330,natalie@gmail.com,February,2,1,1,North America,19,2,March,Not Repurchased,1,YES
+330,11331,henderson@xyz.com,February,10,8,48,Europe,144,64,Not Left,Not Repurchased,Not Left,NO
+331,11332,oliver@xyz.com,February,5,4,36,North America,20,32,Not Left,Not Repurchased,Not Left,NO
+332,11333,greene@xyz.com,February,2,2,18,North America,32,16,Not Left,Not Repurchased,Not Left,NO
+333,11334,carlton@gmail.com,February,10,2,4,Europe,0,2,March,Not Repurchased,1,YES
+334,11335,chapman@xyz.com,February,10,9,81,Europe,63,72,Not Left,Not Repurchased,Not Left,NO
+335,11336,clark@gmail.com,February,5,2,2,Europe,24,10,March,Not Repurchased,1,YES
+336,11337,baker@xyz.com,February,5,5,35,North America,90,45,Not Left,Not Repurchased,Not Left,NO
+337,11338,james@xyz.com,February,10,7,63,North America,70,63,Not Left,Not Repurchased,Not Left,NO
+338,11339,campbell@xyz.com,February,10,7,63,Europe,133,56,Not Left,Not Repurchased,Not Left,NO
+339,11340,ricardo@gmail.com,February,2,1,2,North America,8,2,March,Not Repurchased,1,YES
+340,11341,douglas@gmail.com,February,5,2,2,North America,34,2,March,Not Repurchased,1,YES
+341,11342,kerr@xyz.com,February,10,7,63,Europe,63,63,Not Left,Not Repurchased,Not Left,NO
+342,11343,berry@xyz.com,February,2,2,14,Europe,36,18,Not Left,Not Repurchased,Not Left,NO
+343,11344,berry@xyz.com,February,10,8,56,North America,40,72,Not Left,Not Repurchased,Not Left,NO
+344,11345,faith@gmail.com,February,5,1,1,Asia,1,4,March,Not Repurchased,1,YES
+345,11346,stewart@xyz.com,February,1,1,9,Europe,2,10,Not Left,Not Repurchased,Not Left,NO
+346,11347,paula@gmail.com,February,1,1,2,North America,14,1,April,Not Repurchased,2,YES
+347,11348,newman@xyz.com,February,5,4,24,Europe,72,36,Not Left,Not Repurchased,Not Left,NO
+348,11349,king@xyz.com,February,10,10,90,Asia,50,80,Not Left,Not Repurchased,Not Left,NO
+349,11350,randall@xyz.com,February,1,1,9,North America,3,10,Not Left,Not Repurchased,Not Left,NO
+350,11351,violet@gmail.com,February,2,1,1,North America,9,5,March,Not Repurchased,1,YES
+351,11352,parr@xyz.com,February,10,8,72,North America,24,64,Not Left,Not Repurchased,Not Left,NO
+352,11353,harris@xyz.com,February,1,1,7,North America,2,9,Not Left,Not Repurchased,Not Left,NO
+353,11354,wilkins@xyz.com,February,1,1,9,North America,19,8,Not Left,Not Repurchased,Not Left,NO
+354,11355,marshall@xyz.com,February,5,5,40,North America,100,50,Not Left,Not Repurchased,Not Left,NO
+355,11356,langdon@xyz.com,February,2,2,16,Europe,0,16,Not Left,Not Repurchased,Not Left,NO
+356,11357,wilkins@xyz.com,February,1,1,9,North America,20,9,Not Left,Not Repurchased,Not Left,NO
+357,11358,jones@xyz.com,February,10,9,72,Europe,18,81,Not Left,Not Repurchased,Not Left,NO
+358,11359,ball@xyz.com,February,10,9,81,North America,180,72,Not Left,Not Repurchased,Not Left,NO
+359,11360,allan@xyz.com,February,1,1,8,Asia,5,8,Not Left,Not Repurchased,Not Left,NO
+360,11361,arlene@gmail.com,February,5,2,1,Europe,26,4,March,Not Repurchased,1,YES
+361,11362,gary@yahoo.com,February,1,1,1,Asia,12,3,March,Not Repurchased,1,YES
+362,11363,ball@xyz.com,February,10,8,48,North America,40,64,Not Left,Not Repurchased,Not Left,NO
+363,11364,george@yahoo.com,February,1,1,2,Asia,17,1,March,Not Repurchased,1,YES
+364,11365,rampling@xyz.com,February,5,4,28,Europe,60,40,Not Left,Not Repurchased,Not Left,NO
+365,11366,kelly@xyz.com,February,1,1,8,North America,11,10,Not Left,Not Repurchased,Not Left,NO
+366,11367,mcdonald@xyz.com,February,1,1,9,North America,4,8,Not Left,Not Repurchased,Not Left,NO
+367,11368,greene@xyz.com,February,1,1,7,Europe,12,8,Not Left,Not Repurchased,Not Left,NO
+368,11369,newman@xyz.com,February,10,10,60,Asia,120,90,Not Left,Not Repurchased,Not Left,NO
+369,11370,brittany@gmail.com,February,1,1,1,Europe,17,1,March,April,1,NO
+370,11371,miriam@gmail.com,February,2,1,2,North America,10,1,April,Not Repurchased,2,YES
+371,11372,kelly@xyz.com,February,2,2,16,North America,38,20,Not Left,Not Repurchased,Not Left,NO
+372,11373,kendra@yahoo.com,February,1,1,2,Asia,1,4,March,Not Repurchased,1,YES
+373,11374,wm@gmail.com,February,1,1,2,Asia,6,1,March,Not Repurchased,1,YES
+374,11375,russell@xyz.com,February,2,1,6,Europe,2,9,Not Left,Not Repurchased,Not Left,NO
+375,11376,ince@xyz.com,February,2,2,14,North America,40,20,Not Left,Not Repurchased,Not Left,NO
+376,11377,randall@xyz.com,February,2,2,12,North America,20,18,Not Left,Not Repurchased,Not Left,NO
+377,11378,wright@xyz.com,February,2,2,16,North America,10,18,Not Left,Not Repurchased,Not Left,NO
+378,11379,blake@xyz.com,February,5,4,24,North America,80,36,Not Left,Not Repurchased,Not Left,NO
+379,11380,lillie@gmail.com,February,2,1,1,North America,2,2,March,Not Repurchased,1,YES
+380,11381,alberta@gmail.com,February,5,2,4,North America,8,10,April,Not Repurchased,2,YES
+381,11382,timothy@gmail.com,February,1,1,1,North America,1,2,April,Not Repurchased,2,YES
+382,11383,welch@xyz.com,February,2,2,18,Europe,6,16,Not Left,Not Repurchased,Not Left,NO
+383,11384,margaret@gmail.com,February,5,2,4,North America,36,8,April,Not Repurchased,2,YES
+384,11385,yvette@gmail.com,February,2,1,1,North America,11,5,March,Not Repurchased,1,YES
+385,11386,fisher@xyz.com,February,1,1,8,North America,0,8,Not Left,Not Repurchased,Not Left,NO
+386,11387,chapman@xyz.com,February,1,1,9,Asia,5,8,Not Left,Not Repurchased,Not Left,NO
+387,11388,davies@xyz.com,February,5,4,24,Europe,60,36,Not Left,Not Repurchased,Not Left,NO
+388,11389,maureen@yahoo.com,February,1,1,1,Asia,8,2,March,Not Repurchased,1,YES
+389,11390,brenda@yahoo.com,February,1,1,1,Asia,16,4,March,Not Repurchased,1,YES
+390,11391,taylor@xyz.com,February,10,9,72,Europe,144,72,Not Left,Not Repurchased,Not Left,NO
+391,11392,rita@gmail.com,February,5,2,1,Asia,36,2,March,Not Repurchased,1,YES
+392,11393,knox@xyz.com,February,2,2,12,Asia,40,20,Not Left,Not Repurchased,Not Left,NO
+393,11394,peake@xyz.com,February,10,9,72,North America,153,90,Not Left,Not Repurchased,Not Left,NO
+394,11395,roderick@gmail.com,February,2,1,2,Asia,5,4,March,Not Repurchased,1,YES
+395,11396,howard@xyz.com,February,5,5,35,North America,25,40,Not Left,Not Repurchased,Not Left,NO
+396,11397,carr@xyz.com,February,5,5,45,Asia,50,45,Not Left,Not Repurchased,Not Left,NO
+397,11398,ellison@xyz.com,February,5,5,35,North America,25,45,Not Left,Not Repurchased,Not Left,NO
+398,11399,janet@yahoo.com,February,1,1,1,Asia,17,4,March,Not Repurchased,1,YES
+399,11400,arnold@gmail.com,February,1,1,1,North America,13,5,April,Not Repurchased,2,YES
+400,11401,tami@yahoo.com,February,1,1,1,Asia,6,2,March,Not Repurchased,1,YES
+401,11402,taylor@xyz.com,February,2,2,16,Europe,26,16,Not Left,Not Repurchased,Not Left,NO
+402,11403,campbell@xyz.com,February,1,1,8,Asia,13,10,Not Left,Not Repurchased,Not Left,NO
+403,11404,sharp@xyz.com,February,5,4,28,Europe,80,40,Not Left,Not Repurchased,Not Left,NO
+404,11405,rutherford@xyz.com,February,10,10,90,North America,50,80,Not Left,Not Repurchased,Not Left,NO
+405,11406,carroll@yahoo.com,February,1,1,1,Asia,14,3,March,Not Repurchased,1,YES
+406,11407,james@xyz.com,February,1,1,8,Europe,14,10,Not Left,Not Repurchased,Not Left,NO
+407,11408,robertson@xyz.com,February,1,1,7,North America,14,8,Not Left,Not Repurchased,Not Left,NO
+408,11409,martin@xyz.com,February,1,1,8,North America,1,9,Not Left,Not Repurchased,Not Left,NO
+409,11410,howard@yahoo.com,February,1,1,2,Asia,18,4,March,Not Repurchased,1,YES
+410,11411,white@xyz.com,February,2,2,16,Asia,6,18,Not Left,Not Repurchased,Not Left,NO
+411,11412,herman@gmail.com,February,5,2,1,North America,26,10,March,Not Repurchased,1,YES
+412,11413,white@xyz.com,February,1,1,9,North America,9,10,Not Left,Not Repurchased,Not Left,NO
+413,11414,nick@gmail.com,February,10,4,8,Asia,12,16,March,Not Repurchased,1,YES
+414,11415,lewis@xyz.com,February,5,4,28,Europe,20,36,Not Left,Not Repurchased,Not Left,NO
+415,11416,jared@gmail.com,February,2,1,2,Europe,2,2,March,Not Repurchased,1,YES
+416,11417,johnny@yahoo.com,February,1,1,1,Asia,15,4,March,Not Repurchased,1,YES
+417,11418,nash@xyz.com,February,5,5,40,Europe,100,50,Not Left,Not Repurchased,Not Left,NO
+418,11419,eleanor@gmail.com,February,5,1,1,Asia,18,5,March,Not Repurchased,1,YES
+419,11420,kimberly@gmail.com,February,10,2,2,Asia,34,4,March,Not Repurchased,1,YES
+420,11421,miller@xyz.com,February,1,1,6,Asia,11,8,Not Left,Not Repurchased,Not Left,NO
+421,11422,hill@xyz.com,February,5,4,24,Europe,60,32,Not Left,Not Repurchased,Not Left,NO
+422,11423,wright@xyz.com,February,5,5,30,North America,80,45,Not Left,Not Repurchased,Not Left,NO
+423,11424,melissa@gmail.com,February,5,1,1,Asia,8,4,March,Not Repurchased,1,YES
+424,11425,clarkson@xyz.com,February,5,4,36,Europe,56,40,Not Left,Not Repurchased,Not Left,NO
+425,11426,ed@gmail.com,February,2,1,2,North America,14,1,March,Not Repurchased,1,YES
+426,11427,gill@xyz.com,February,1,1,9,Asia,5,8,Not Left,Not Repurchased,Not Left,NO
+427,11428,willis@gmail.com,February,1,1,1,North America,9,5,March,Not Repurchased,1,YES
+428,11429,paterson@xyz.com,February,1,1,7,North America,3,8,Not Left,Not Repurchased,Not Left,NO
+429,11430,paige@xyz.com,February,1,1,8,North America,0,10,Not Left,Not Repurchased,Not Left,NO
+430,11431,emmett@gmail.com,February,2,1,1,Europe,19,1,March,April,1,NO
+431,11432,viola@gmail.com,February,1,1,1,Asia,18,2,March,Not Repurchased,1,YES
+432,11433,buckland@xyz.com,February,1,1,8,Asia,9,8,Not Left,Not Repurchased,Not Left,NO
+433,11434,cornish@xyz.com,February,5,3,21,North America,12,30,Not Left,Not Repurchased,Not Left,NO
+434,11435,robertson@xyz.com,February,1,1,9,North America,6,10,Not Left,Not Repurchased,Not Left,NO
+435,11436,pamela@yahoo.com,February,1,1,1,Asia,3,4,March,Not Repurchased,1,YES
+436,11437,jeremiah@gmail.com,February,1,1,1,Asia,1,2,March,Not Repurchased,1,YES
+437,11438,lewis@xyz.com,February,5,4,32,North America,48,36,Not Left,Not Repurchased,Not Left,NO
+438,11439,alton@gmail.com,February,10,2,2,Asia,6,10,March,Not Repurchased,1,YES
+439,11440,martin@xyz.com,February,1,1,8,Europe,9,10,Not Left,Not Repurchased,Not Left,NO
+440,11441,king@xyz.com,February,1,1,7,North America,5,8,Not Left,Not Repurchased,Not Left,NO
+441,11442,ross@xyz.com,February,5,4,36,Europe,80,36,Not Left,Not Repurchased,Not Left,NO
+442,11443,derek@gmail.com,February,1,1,2,Asia,5,5,March,Not Repurchased,1,YES
+443,11444,melanie@gmail.com,February,5,2,2,North America,30,6,March,Not Repurchased,1,YES
+444,11445,taylor@xyz.com,February,1,1,6,Europe,11,8,Not Left,Not Repurchased,Not Left,NO
+445,11446,berry@xyz.com,February,2,2,12,North America,10,18,Not Left,Not Repurchased,Not Left,NO
+446,11447,paterson@xyz.com,February,2,2,12,Europe,22,18,Not Left,Not Repurchased,Not Left,NO
+447,11448,newman@xyz.com,February,10,7,63,Europe,140,63,Not Left,Not Repurchased,Not Left,NO
+448,11449,gibson@xyz.com,February,5,4,36,North America,32,36,Not Left,Not Repurchased,Not Left,NO
+449,11450,bell@xyz.com,February,2,2,12,Europe,22,16,Not Left,Not Repurchased,Not Left,NO
+450,11451,bower@xyz.com,February,1,1,8,Europe,6,9,Not Left,Not Repurchased,Not Left,NO
+451,11452,ball@xyz.com,February,10,7,42,Europe,105,70,Not Left,Not Repurchased,Not Left,NO
+452,11453,clark@xyz.com,February,5,5,45,Europe,90,35,Not Left,Not Repurchased,Not Left,NO
+453,11454,marion@gmail.com,February,2,1,1,North America,19,4,March,Not Repurchased,1,YES
+454,11455,alice@gmail.com,February,10,2,1,North America,38,6,March,Not Repurchased,1,YES
+455,11456,carr@xyz.com,February,2,2,12,Europe,20,16,Not Left,Not Repurchased,Not Left,NO
+456,11457,jorge@gmail.com,February,10,3,6,Europe,45,6,March,Not Repurchased,1,YES
+457,11458,avery@xyz.com,February,5,5,40,Europe,0,40,Not Left,Not Repurchased,Not Left,NO
+458,11459,cornish@xyz.com,February,2,2,18,North America,34,20,Not Left,Not Repurchased,Not Left,NO
+459,11460,lewis@xyz.com,February,5,5,35,Asia,10,50,Not Left,Not Repurchased,Not Left,NO
+460,11461,lambert@xyz.com,February,2,2,16,North America,2,16,Not Left,Not Repurchased,Not Left,NO
+461,11462,nadine@gmail.com,February,1,1,2,Asia,6,5,March,Not Repurchased,1,YES
+462,11463,phyllis@gmail.com,February,2,1,1,Asia,14,5,March,Not Repurchased,1,YES
+463,11464,ogden@xyz.com,February,5,5,40,Europe,100,50,Not Left,Not Repurchased,Not Left,NO
+464,11465,parr@xyz.com,February,10,10,70,Europe,170,80,Not Left,Not Repurchased,Not Left,NO
+465,11466,ramona@gmail.com,February,2,1,1,Europe,12,4,March,Not Repurchased,1,YES
+466,11467,smith@xyz.com,February,2,2,16,Europe,34,20,Not Left,Not Repurchased,Not Left,NO
+467,11468,ogden@xyz.com,February,2,2,18,Asia,34,20,Not Left,Not Repurchased,Not Left,NO
+468,11469,ince@xyz.com,February,2,2,18,Europe,32,20,Not Left,Not Repurchased,Not Left,NO
+469,11470,todd@gmail.com,February,10,3,6,Europe,45,12,March,Not Repurchased,1,YES
+470,11471,wallace@xyz.com,February,10,10,90,Europe,120,80,Not Left,Not Repurchased,Not Left,NO
+471,11472,langdon@xyz.com,February,10,7,56,North America,98,63,Not Left,Not Repurchased,Not Left,NO
+472,11473,lewis@xyz.com,February,2,2,16,North America,26,18,Not Left,Not Repurchased,Not Left,NO
+473,11474,lowell@gmail.com,February,10,4,8,North America,32,16,April,Not Repurchased,2,YES
+474,11475,berry@xyz.com,February,1,1,9,Europe,8,8,Not Left,Not Repurchased,Not Left,NO
+475,11476,burgess@xyz.com,February,1,1,8,North America,12,8,Not Left,Not Repurchased,Not Left,NO
+476,11477,louis@gmail.com,February,1,1,1,North America,20,3,March,Not Repurchased,1,YES
+477,11478,sutherland@xyz.com,February,2,2,14,North America,30,18,Not Left,Not Repurchased,Not Left,NO
+478,11479,wallace@xyz.com,February,5,4,32,Europe,32,32,Not Left,Not Repurchased,Not Left,NO
+479,11480,ferguson@xyz.com,February,2,2,12,Europe,0,18,Not Left,Not Repurchased,Not Left,NO
+480,11481,hunter@xyz.com,February,5,5,40,North America,55,45,Not Left,Not Repurchased,Not Left,NO
+481,11482,beth@gmail.com,February,10,3,3,North America,39,9,March,Not Repurchased,1,YES
+482,11483,north@xyz.com,February,5,5,35,North America,80,45,Not Left,Not Repurchased,Not Left,NO
+483,11484,parr@xyz.com,February,1,1,9,Europe,13,8,Not Left,Not Repurchased,Not Left,NO
+484,11485,tabitha@gmail.com,February,10,3,6,Europe,51,6,March,Not Repurchased,1,YES
+485,11486,lee@xyz.com,February,5,5,35,North America,15,50,Not Left,Not Repurchased,Not Left,NO
+486,11487,knox@xyz.com,February,5,5,35,North America,20,45,Not Left,Not Repurchased,Not Left,NO
+487,11488,anderson@xyz.com,February,10,9,72,North America,63,72,Not Left,Not Repurchased,Not Left,NO
+488,11489,dave@yahoo.com,February,1,1,1,Asia,4,5,March,Not Repurchased,1,YES
+489,11490,simpson@xyz.com,February,5,5,35,North America,25,45,Not Left,Not Repurchased,Not Left,NO
+490,11491,reid@xyz.com,February,5,5,35,Europe,100,45,Not Left,Not Repurchased,Not Left,NO
+491,11492,jones@xyz.com,February,1,1,6,North America,17,8,Not Left,Not Repurchased,Not Left,NO
+492,11493,abraham@xyz.com,February,10,9,72,North America,45,72,Not Left,Not Repurchased,Not Left,NO
+493,11494,howard@xyz.com,February,2,2,18,Europe,12,18,Not Left,Not Repurchased,Not Left,NO
+494,11495,benjamin@gmail.com,February,5,2,2,Europe,34,4,March,Not Repurchased,1,YES
+495,11496,ross@xyz.com,February,1,1,9,Asia,13,9,Not Left,Not Repurchased,Not Left,NO
+496,11497,rickey@gmail.com,February,1,1,1,North America,11,1,March,Not Repurchased,1,YES
+497,11498,ernest@gmail.com,February,10,3,6,North America,9,12,March,Not Repurchased,1,YES
+498,11499,roberts@xyz.com,February,1,1,8,North America,3,8,Not Left,Not Repurchased,Not Left,NO
+499,11500,greene@xyz.com,February,1,1,6,North America,1,9,Not Left,Not Repurchased,Not Left,NO
+500,11501,ross@xyz.com,February,2,2,18,North America,8,20,Not Left,Not Repurchased,Not Left,NO
+501,11502,kelly@xyz.com,February,5,4,28,North America,4,32,Not Left,Not Repurchased,Not Left,NO
+502,11503,stewart@gmail.com,February,2,1,1,Asia,8,3,March,Not Repurchased,1,YES
+503,11504,ellison@xyz.com,February,2,2,12,Europe,4,20,Not Left,Not Repurchased,Not Left,NO
+504,11505,paterson@xyz.com,February,5,4,36,Europe,64,36,Not Left,Not Repurchased,Not Left,NO
+505,11506,langdon@xyz.com,February,2,2,14,North America,20,20,Not Left,Not Repurchased,Not Left,NO
+506,11507,springer@xyz.com,February,10,10,80,North America,0,100,Not Left,Not Repurchased,Not Left,NO
+507,11508,ted@gmail.com,February,1,1,1,North America,4,1,April,Not Repurchased,2,YES
+508,11509,bell@xyz.com,February,2,2,16,North America,16,18,Not Left,Not Repurchased,Not Left,NO
+509,11510,mattie@gmail.com,February,2,1,1,Asia,3,4,March,Not Repurchased,1,YES
+510,11511,ball@xyz.com,February,5,4,28,Europe,64,28,Not Left,Not Repurchased,Not Left,NO
+511,11512,duncan@xyz.com,February,10,10,70,North America,100,100,Not Left,Not Repurchased,Not Left,NO
+512,11513,sutherland@xyz.com,February,2,2,12,North America,24,20,Not Left,Not Repurchased,Not Left,NO
+513,11514,lewis@xyz.com,February,10,10,60,North America,130,90,Not Left,Not Repurchased,Not Left,NO
+514,11515,austin@gmail.com,February,5,1,1,Asia,0,1,March,Not Repurchased,1,YES
+515,11516,bruce@gmail.com,February,2,1,1,North America,6,3,March,Not Repurchased,1,YES
+516,11517,hughes@xyz.com,February,10,10,60,Europe,180,80,Not Left,Not Repurchased,Not Left,NO
+517,11518,walker@xyz.com,February,10,9,63,North America,36,72,Not Left,Not Repurchased,Not Left,NO
+518,11519,skinner@xyz.com,February,1,1,8,Europe,17,10,Not Left,Not Repurchased,Not Left,NO
+519,11520,marta@gmail.com,February,5,2,2,North America,34,8,March,Not Repurchased,1,YES
+520,11521,anne@gmail.com,February,1,1,2,North America,0,1,April,Not Repurchased,2,YES
+521,11522,alsop@xyz.com,February,1,1,9,Europe,8,9,Not Left,Not Repurchased,Not Left,NO
+522,11523,dyer@xyz.com,February,5,5,30,North America,65,50,Not Left,Not Repurchased,Not Left,NO
+523,11524,hamilton@xyz.com,February,1,1,9,North America,17,10,Not Left,Not Repurchased,Not Left,NO
+524,11525,turner@xyz.com,February,2,2,14,North America,10,18,Not Left,Not Repurchased,Not Left,NO
+525,11526,langdon@xyz.com,February,10,9,63,North America,0,72,Not Left,Not Repurchased,Not Left,NO
+526,11527,manning@xyz.com,February,1,1,6,Europe,0,9,Not Left,Not Repurchased,Not Left,NO
+527,11528,sutherland@xyz.com,February,2,2,12,Europe,16,16,Not Left,Not Repurchased,Not Left,NO
+528,11529,emily@yahoo.com,February,1,1,1,Asia,0,1,March,Not Repurchased,1,YES
+529,11530,stuart@gmail.com,February,1,1,1,North America,16,5,March,Not Repurchased,1,YES
+530,11531,stewart@xyz.com,February,10,7,63,Europe,42,63,Not Left,Not Repurchased,Not Left,NO
+531,11532,walsh@xyz.com,February,2,2,18,North America,20,18,Not Left,Not Repurchased,Not Left,NO
+532,11533,rudolph@yahoo.com,February,1,1,2,Asia,5,4,March,Not Repurchased,1,YES
+533,11534,randall@xyz.com,February,2,2,18,Europe,24,16,Not Left,Not Repurchased,Not Left,NO
+534,11535,clark@xyz.com,February,10,9,81,Europe,153,72,Not Left,Not Repurchased,Not Left,NO
+535,11536,noah@gmail.com,February,10,4,8,North America,28,8,March,Not Repurchased,1,YES
+536,11537,stewart@xyz.com,February,1,1,9,Asia,6,9,Not Left,Not Repurchased,Not Left,NO
+537,11538,tucker@xyz.com,February,10,10,80,North America,140,80,Not Left,Not Repurchased,Not Left,NO
+538,11539,roberta@gmail.com,February,2,1,2,Asia,4,1,March,Not Repurchased,1,YES
+539,11540,johnston@xyz.com,February,10,8,56,North America,104,64,Not Left,Not Repurchased,Not Left,NO
+540,11541,harris@xyz.com,February,2,2,16,North America,6,16,Not Left,Not Repurchased,Not Left,NO
+541,11542,russell@xyz.com,February,1,1,6,North America,4,9,Not Left,Not Repurchased,Not Left,NO
+542,11543,mackenzie@xyz.com,February,2,2,18,North America,40,20,Not Left,Not Repurchased,Not Left,NO
+543,11544,kellie@gmail.com,February,1,1,1,Asia,2,2,March,Not Repurchased,1,YES
+544,11545,sharp@xyz.com,February,2,2,16,Asia,24,16,Not Left,Not Repurchased,Not Left,NO
+545,11546,glover@xyz.com,February,2,2,14,Europe,40,16,Not Left,Not Repurchased,Not Left,NO
+546,11547,powell@xyz.com,February,10,7,63,North America,14,56,Not Left,Not Repurchased,Not Left,NO
+547,11548,tucker@xyz.com,February,1,1,9,Europe,8,10,Not Left,Not Repurchased,Not Left,NO
+548,11549,nolan@xyz.com,February,10,9,63,North America,171,72,Not Left,Not Repurchased,Not Left,NO
+549,11550,macleod@xyz.com,February,5,5,30,North America,70,40,Not Left,Not Repurchased,Not Left,NO
+550,11551,everett@gmail.com,February,5,1,1,Asia,16,1,March,Not Repurchased,1,YES
+551,11552,buckland@xyz.com,February,10,8,64,Europe,104,64,Not Left,Not Repurchased,Not Left,NO
+552,11553,coleman@xyz.com,February,10,9,54,North America,63,90,Not Left,Not Repurchased,Not Left,NO
+553,11554,chapman@xyz.com,February,2,2,18,Europe,30,6,Not Left,Not Repurchased,Not Left,NO
+554,11555,dorothy@yahoo.com,February,1,1,1,Asia,19,5,March,Not Repurchased,1,YES
+555,11556,peters@xyz.com,February,10,7,56,Asia,70,63,Not Left,Not Repurchased,Not Left,NO
+556,11557,antonia@gmail.com,February,2,1,1,Asia,14,2,March,Not Repurchased,1,YES
+557,11558,marshall@xyz.com,February,5,4,28,North America,36,40,Not Left,Not Repurchased,Not Left,NO
+558,11559,gill@xyz.com,February,2,2,14,North America,8,18,Not Left,Not Repurchased,Not Left,NO
+559,11560,herbert@gmail.com,February,5,2,2,Asia,34,2,March,Not Repurchased,1,YES
+560,11561,taylor@xyz.com,February,10,9,81,North America,54,81,Not Left,Not Repurchased,Not Left,NO
+561,11562,james@xyz.com,February,5,4,28,Asia,68,40,Not Left,Not Repurchased,Not Left,NO
+562,11563,gray@xyz.com,February,5,4,28,North America,76,40,Not Left,Not Repurchased,Not Left,NO
+563,11564,newman@xyz.com,February,2,2,18,North America,40,18,Not Left,Not Repurchased,Not Left,NO
+564,11565,ronnie@gmail.com,February,10,3,3,North America,3,9,March,Not Repurchased,1,YES
+565,11566,powell@xyz.com,February,10,9,81,North America,144,72,Not Left,Not Repurchased,Not Left,NO
+566,11567,rosie@gmail.com,February,10,2,2,Europe,34,2,March,Not Repurchased,1,YES
+567,11568,hector@gmail.com,February,1,1,1,Asia,4,3,March,Not Repurchased,1,YES
+568,11569,cameron@xyz.com,February,2,2,18,Asia,4,20,Not Left,Not Repurchased,Not Left,NO
+569,11570,davidson@xyz.com,February,10,9,63,Asia,63,90,Not Left,Not Repurchased,Not Left,NO
+570,11571,dorothy@gmail.com,February,1,1,1,Asia,14,1,March,Not Repurchased,1,YES
+571,11572,bell@xyz.com,February,5,5,35,North America,10,50,Not Left,Not Repurchased,Not Left,NO
+572,11573,felipe@gmail.com,February,2,1,2,North America,16,4,March,Not Repurchased,1,YES
+573,11574,bower@xyz.com,February,2,2,16,North America,32,18,Not Left,Not Repurchased,Not Left,NO
+574,11575,mack@gmail.com,February,1,1,2,Asia,14,5,March,Not Repurchased,1,YES
+575,11576,bailey@xyz.com,February,2,2,12,North America,6,18,Not Left,Not Repurchased,Not Left,NO
+576,11577,smith@xyz.com,February,2,2,18,Europe,36,20,Not Left,Not Repurchased,Not Left,NO
+577,11578,walsh@xyz.com,February,2,2,14,North America,28,16,Not Left,Not Repurchased,Not Left,NO
+578,11579,gill@xyz.com,February,5,5,40,North America,25,50,Not Left,Not Repurchased,Not Left,NO
+579,11580,tucker@xyz.com,February,1,1,9,North America,9,10,Not Left,Not Repurchased,Not Left,NO
+580,11581,bob@gmail.com,February,5,2,2,North America,20,2,March,Not Repurchased,1,YES
+581,11582,sanderson@xyz.com,February,2,2,14,Europe,8,18,Not Left,Not Repurchased,Not Left,NO
+582,11583,cameron@xyz.com,February,5,4,36,North America,20,40,Not Left,Not Repurchased,Not Left,NO
+583,11584,payne@xyz.com,February,1,1,9,Asia,9,7,Not Left,Not Repurchased,Not Left,NO
+584,11585,paterson@xyz.com,February,2,2,14,Europe,40,20,Not Left,Not Repurchased,Not Left,NO
+585,11586,mitchell@xyz.com,February,5,5,45,Europe,20,45,Not Left,Not Repurchased,Not Left,NO
+586,11587,mona@gmail.com,February,1,1,1,Asia,18,5,March,Not Repurchased,1,YES
+587,11588,gibson@xyz.com,February,5,5,45,North America,75,50,Not Left,Not Repurchased,Not Left,NO
+588,11589,lyman@xyz.com,February,1,1,8,North America,18,10,Not Left,Not Repurchased,Not Left,NO
+589,11590,langdon@xyz.com,February,5,4,36,North America,24,40,Not Left,Not Repurchased,Not Left,NO
+590,11591,wilson@gmail.com,February,10,1,2,North America,1,3,March,Not Repurchased,1,YES
+591,11592,hill@xyz.com,February,2,2,18,Europe,22,18,Not Left,Not Repurchased,Not Left,NO
+592,11593,wallace@xyz.com,February,5,5,35,North America,100,40,Not Left,Not Repurchased,Not Left,NO
+593,11594,kelli@yahoo.com,February,1,1,1,Asia,2,3,March,Not Repurchased,1,YES
+594,11595,howard@xyz.com,February,10,9,54,Europe,90,72,Not Left,Not Repurchased,Not Left,NO
+595,11596,lewis@xyz.com,February,10,9,63,North America,63,90,Not Left,Not Repurchased,Not Left,NO
+596,11597,lyman@xyz.com,February,1,1,7,Europe,11,10,Not Left,Not Repurchased,Not Left,NO
+597,11598,kim@gmail.com,February,1,1,1,North America,2,1,March,Not Repurchased,1,YES
+598,11599,jackson@xyz.com,February,2,2,12,North America,26,16,Not Left,Not Repurchased,Not Left,NO
+599,11600,roberts@xyz.com,February,2,2,14,North America,0,18,Not Left,Not Repurchased,Not Left,NO
+600,11601,abraham@xyz.com,February,10,8,72,Europe,72,64,Not Left,Not Repurchased,Not Left,NO
+601,11602,barbara@gmail.com,February,1,1,2,North America,11,4,March,Not Repurchased,1,YES
+602,11603,hemmings@xyz.com,February,5,3,18,Europe,6,24,Not Left,Not Repurchased,Not Left,NO
+603,11604,allan@gmail.com,February,2,1,1,Europe,9,5,March,Not Repurchased,1,YES
+604,11605,ball@xyz.com,February,10,9,63,Europe,108,81,Not Left,Not Repurchased,Not Left,NO
+605,11606,ted@gmail.com,February,1,1,1,Asia,0,3,March,Not Repurchased,1,YES
+606,11607,fisher@xyz.com,February,10,7,42,North America,49,63,Not Left,Not Repurchased,Not Left,NO
+607,11608,edmunds@xyz.com,February,10,9,72,Asia,45,90,Not Left,Not Repurchased,Not Left,NO
+608,11609,rampling@xyz.com,February,1,1,8,Europe,9,9,Not Left,Not Repurchased,Not Left,NO
+609,11610,alsop@xyz.com,February,1,1,8,North America,11,8,Not Left,Not Repurchased,Not Left,NO
+610,11611,kelly@xyz.com,February,5,5,30,Asia,70,40,Not Left,Not Repurchased,Not Left,NO
+611,11612,peake@xyz.com,February,1,1,8,North America,4,10,Not Left,Not Repurchased,Not Left,NO
+612,11613,macdonald@xyz.com,February,5,5,40,North America,55,50,Not Left,Not Repurchased,Not Left,NO
+613,11614,gabriel@gmail.com,February,2,1,1,North America,19,3,March,Not Repurchased,1,YES
+614,11615,dallas@gmail.com,February,5,2,4,Asia,24,6,March,Not Repurchased,1,YES
+615,11616,young@xyz.com,February,10,7,63,North America,91,63,Not Left,Not Repurchased,Not Left,NO
+616,11617,bower@xyz.com,February,10,8,48,North America,56,72,Not Left,Not Repurchased,Not Left,NO
+617,11618,jamie@yahoo.com,February,1,1,1,Asia,0,5,March,Not Repurchased,1,YES
+618,11619,oliver@xyz.com,February,2,2,12,Europe,8,20,Not Left,Not Repurchased,Not Left,NO
+619,11620,bailey@xyz.com,February,1,1,7,North America,5,9,Not Left,Not Repurchased,Not Left,NO
+620,11621,macdonald@xyz.com,February,1,1,9,Europe,5,9,Not Left,Not Repurchased,Not Left,NO
+621,11622,mcdonald@xyz.com,February,1,1,8,North America,15,8,Not Left,Not Repurchased,Not Left,NO
+622,11623,mildred@gmail.com,February,5,2,4,North America,10,2,March,Not Repurchased,1,YES
+623,11624,manning@xyz.com,February,10,8,48,Europe,112,80,Not Left,Not Repurchased,Not Left,NO
+624,11625,buckland@xyz.com,February,1,1,6,Europe,4,9,Not Left,Not Repurchased,Not Left,NO
+625,11626,randolph@yahoo.com,February,1,1,1,Asia,17,3,March,Not Repurchased,1,YES
+626,11627,davidson@xyz.com,February,10,9,63,Europe,99,72,Not Left,Not Repurchased,Not Left,NO
+627,11628,forsyth@xyz.com,February,1,1,7,North America,9,10,Not Left,Not Repurchased,Not Left,NO
+628,11629,shannon@gmail.com,February,2,1,2,North America,9,4,April,Not Repurchased,2,YES
+629,11630,hodges@xyz.com,February,2,2,16,Europe,26,18,Not Left,Not Repurchased,Not Left,NO
+630,11631,stewart@xyz.com,February,1,1,8,Europe,9,9,Not Left,Not Repurchased,Not Left,NO
+631,11632,clark@xyz.com,February,5,5,40,North America,25,50,Not Left,Not Repurchased,Not Left,NO
+632,11633,erin@gmail.com,February,1,1,1,North America,17,2,March,Not Repurchased,1,YES
+633,11634,paulette@gmail.com,February,1,1,1,Asia,17,3,March,Not Repurchased,1,YES
+634,11635,gladys@gmail.com,February,5,1,2,Asia,19,2,March,Not Repurchased,1,YES
+635,11636,susie@gmail.com,February,1,1,1,North America,10,5,March,Not Repurchased,1,YES
+636,11637,stephanie@gmail.com,February,1,1,1,Asia,7,5,March,Not Repurchased,1,YES
+637,11638,hunter@xyz.com,February,10,7,42,Europe,126,70,Not Left,Not Repurchased,Not Left,NO
+638,11639,ogden@xyz.com,February,1,1,9,North America,5,9,Not Left,Not Repurchased,Not Left,NO
+639,11640,angelina@yahoo.com,February,1,1,1,Asia,0,4,March,Not Repurchased,1,YES
+640,11641,rutherford@xyz.com,February,1,1,7,North America,7,8,Not Left,Not Repurchased,Not Left,NO
+641,11642,israel@gmail.com,February,1,1,1,North America,6,1,March,Not Repurchased,1,YES
+642,11643,miller@xyz.com,February,1,1,6,Europe,9,9,Not Left,Not Repurchased,Not Left,NO
+643,11644,coleman@xyz.com,February,1,1,9,North America,11,9,Not Left,Not Repurchased,Not Left,NO
+644,11645,manning@xyz.com,February,10,7,42,North America,133,63,Not Left,Not Repurchased,Not Left,NO
+645,11646,adam@gmail.com,February,10,4,4,Europe,64,12,March,Not Repurchased,1,YES
+646,11647,white@xyz.com,February,10,9,63,Asia,144,90,Not Left,Not Repurchased,Not Left,NO
+647,11648,young@xyz.com,February,5,5,30,North America,40,50,Not Left,Not Repurchased,Not Left,NO
+648,11649,king@xyz.com,February,1,1,6,North America,4,10,Not Left,Not Repurchased,Not Left,NO
+649,11650,darnell@gmail.com,February,1,1,1,Asia,20,3,March,Not Repurchased,1,YES
+650,11651,marshall@gmail.com,February,5,2,4,Europe,34,8,March,Not Repurchased,1,YES
+651,11652,white@xyz.com,February,2,2,16,Asia,32,16,Not Left,Not Repurchased,Not Left,NO
+652,11653,burgess@xyz.com,February,10,9,81,North America,9,72,Not Left,Not Repurchased,Not Left,NO
+653,11654,lyman@xyz.com,February,5,5,45,North America,70,40,Not Left,Not Repurchased,Not Left,NO
+654,11655,pullman@xyz.com,February,10,8,72,Europe,88,72,Not Left,Not Repurchased,Not Left,NO
+655,11656,russell@xyz.com,February,1,1,7,North America,15,10,Not Left,Not Repurchased,Not Left,NO
+656,11657,dowd@xyz.com,February,10,8,48,Europe,8,80,Not Left,Not Repurchased,Not Left,NO
+657,11658,campbell@xyz.com,February,2,2,14,North America,34,16,Not Left,Not Repurchased,Not Left,NO
+658,11659,campbell@xyz.com,February,10,9,81,Europe,0,72,Not Left,Not Repurchased,Not Left,NO
+659,11660,knox@xyz.com,February,2,2,18,North America,8,18,Not Left,Not Repurchased,Not Left,NO
+660,11661,jackson@xyz.com,February,5,4,28,North America,40,36,Not Left,Not Repurchased,Not Left,NO
+661,11662,penny@yahoo.com,February,1,1,1,Asia,5,1,March,Not Repurchased,1,YES
+662,11663,wilson@xyz.com,February,1,1,7,North America,9,9,Not Left,Not Repurchased,Not Left,NO
+663,11664,lillian@yahoo.com,February,1,1,2,Asia,8,2,March,Not Repurchased,1,YES
+664,11665,kerr@xyz.com,February,2,2,16,North America,22,16,Not Left,Not Repurchased,Not Left,NO
+665,11666,forsyth@xyz.com,February,10,7,42,North America,63,70,Not Left,Not Repurchased,Not Left,NO
+666,11667,parr@xyz.com,February,10,8,48,Asia,80,72,Not Left,Not Repurchased,Not Left,NO
+667,11668,simpson@xyz.com,February,10,8,64,North America,96,80,Not Left,Not Repurchased,Not Left,NO
+668,11669,gene@gmail.com,February,10,3,6,North America,3,6,March,Not Repurchased,1,YES
+669,11670,hill@xyz.com,February,2,2,12,North America,0,20,Not Left,Not Repurchased,Not Left,NO
+670,11671,pauline@yahoo.com,February,1,1,2,Asia,18,5,March,Not Repurchased,1,YES
+671,11672,ball@xyz.com,February,1,1,7,North America,1,8,Not Left,Not Repurchased,Not Left,NO
+672,11673,dowd@xyz.com,February,2,2,12,North America,16,18,Not Left,Not Repurchased,Not Left,NO
+673,11674,rex@yahoo.com,February,1,1,1,Asia,15,2,March,Not Repurchased,1,YES
+674,11675,wade@gmail.com,February,1,1,1,Asia,12,2,March,Not Repurchased,1,YES
+675,11676,paige@xyz.com,February,5,4,32,North America,52,36,Not Left,Not Repurchased,Not Left,NO
+676,11677,shane@gmail.com,February,2,1,1,Asia,3,3,March,Not Repurchased,1,YES
+677,11678,macleod@xyz.com,February,5,4,36,Europe,68,20,Not Left,Not Repurchased,Not Left,NO
+678,11679,payne@xyz.com,February,10,7,63,North America,0,63,Not Left,Not Repurchased,Not Left,NO
+679,11680,becky@gmail.com,February,5,2,1,Europe,40,10,March,Not Repurchased,1,YES
+680,11681,piper@xyz.com,February,10,7,63,Europe,133,70,Not Left,Not Repurchased,Not Left,NO
+681,11682,parsons@xyz.com,February,1,1,6,North America,15,8,Not Left,Not Repurchased,Not Left,NO
+682,11683,dora@gmail.com,February,10,3,1,North America,57,15,March,Not Repurchased,1,YES
+683,11684,springer@xyz.com,February,5,4,28,Europe,56,48,Not Left,Not Repurchased,Not Left,NO
+684,11685,blake@xyz.com,February,2,2,14,North America,2,16,Not Left,Not Repurchased,Not Left,NO
+685,11686,wright@xyz.com,February,10,9,72,North America,0,90,Not Left,Not Repurchased,Not Left,NO
+686,11687,nathaniel@gmail.com,February,1,1,1,Asia,1,1,March,Not Repurchased,1,YES
+687,11688,grace@gmail.com,February,5,2,1,North America,2,8,April,Not Repurchased,2,YES
+688,11689,davies@xyz.com,February,5,5,30,Europe,75,55,Not Left,Not Repurchased,Not Left,NO
+689,11690,graham@xyz.com,February,2,2,12,North America,30,16,Not Left,Not Repurchased,Not Left,NO
+690,11691,freda@yahoo.com,February,1,1,1,Asia,5,5,March,Not Repurchased,1,YES
+691,11692,mathis@xyz.com,February,1,1,6,Europe,18,8,Not Left,Not Repurchased,Not Left,NO
+692,11693,hamilton@xyz.com,February,5,4,36,North America,8,36,Not Left,Not Repurchased,Not Left,NO
+693,11694,theresa@gmail.com,February,2,1,1,North America,18,3,March,April,1,NO
+694,11695,dixie@gmail.com,February,1,1,2,Europe,4,2,March,Not Repurchased,1,YES
+695,11696,terry@gmail.com,February,10,3,3,North America,18,15,March,Not Repurchased,1,YES
+696,11697,joanna@gmail.com,February,10,3,6,North America,60,6,March,Not Repurchased,1,YES
+697,11698,graham@xyz.com,February,1,1,9,North America,15,10,Not Left,Not Repurchased,Not Left,NO
+698,11699,thomson@xyz.com,February,1,1,9,North America,5,8,Not Left,Not Repurchased,Not Left,NO
+699,11700,metcalfe@xyz.com,February,2,2,16,North America,6,16,Not Left,Not Repurchased,Not Left,NO
+700,11701,mackay@xyz.com,February,10,9,54,North America,153,81,Not Left,Not Repurchased,Not Left,NO
+701,11702,king@xyz.com,March,5,4,24,North America,56,32,Not Left,Not Repurchased,Not Left,NO
+702,11703,underwood@xyz.com,March,2,2,14,North America,12,18,Not Left,Not Repurchased,Not Left,NO
+703,11704,north@xyz.com,March,10,10,70,Europe,50,100,Not Left,Not Repurchased,Not Left,NO
+704,11705,greene@xyz.com,March,10,10,70,Asia,70,80,Not Left,Not Repurchased,Not Left,NO
+705,11706,julia@xyz.com,March,2,1,1,Europe,15,1,April,Not Repurchased,1,YES
+706,11707,skinner@xyz.com,March,1,1,8,Europe,17,10,Not Left,Not Repurchased,Not Left,NO
+707,11708,james@xyz.com,March,5,5,45,North America,35,45,Not Left,Not Repurchased,Not Left,NO
+708,11709,allan@xyz.com,March,1,1,9,Europe,3,10,Not Left,Not Repurchased,Not Left,NO
+709,11710,arnold@xyz.com,March,10,9,54,North America,135,81,Not Left,Not Repurchased,Not Left,NO
+710,11711,manning@xyz.com,March,1,1,6,Europe,20,10,Not Left,Not Repurchased,Not Left,NO
+711,11712,short@xyz.com,March,1,1,6,Europe,5,8,Not Left,Not Repurchased,Not Left,NO
+712,11713,arnold@gmail.com,March,1,1,2,Asia,10,4,April,Not Repurchased,1,YES
+713,11714,jeannette@xyz.com,March,10,3,6,Europe,9,6,April,Not Repurchased,1,YES
+714,11715,hart@xyz.com,March,5,5,45,Europe,95,50,Not Left,Not Repurchased,Not Left,NO
+715,11716,josh@xyz.com,March,2,2,1,Europe,8,8,April,Not Repurchased,1,YES
+716,11717,ellison@xyz.com,March,10,10,70,North America,130,100,Not Left,Not Repurchased,Not Left,NO
+717,11718,terence@yahoo.com,March,5,3,18,North America,51,30,Not Left,Not Repurchased,Not Left,NO
+718,11719,sally@gmail.com,March,1,1,1,Asia,12,3,April,Not Repurchased,1,YES
+719,11720,edmunds@xyz.com,March,5,5,40,North America,80,40,Not Left,Not Repurchased,Not Left,NO
+720,11721,wallace@xyz.com,March,1,1,8,Europe,4,10,Not Left,Not Repurchased,Not Left,NO
+721,11722,hemmings@xyz.com,March,5,5,45,North America,30,45,Not Left,Not Repurchased,Not Left,NO
+722,11723,gibson@xyz.com,March,5,4,36,Europe,68,32,Not Left,Not Repurchased,Not Left,NO
+723,11724,greene@xyz.com,March,2,2,18,Europe,24,16,Not Left,Not Repurchased,Not Left,NO
+724,11725,macdonald@xyz.com,March,1,1,9,North America,9,8,Not Left,Not Repurchased,Not Left,NO
+725,11726,abel@xyz.com,March,5,5,10,North America,50,15,April,Not Repurchased,1,YES
+726,11727,tucker@xyz.com,March,5,4,36,North America,16,36,Not Left,Not Repurchased,Not Left,NO
+727,11728,calvin@gmail.com,March,1,1,2,Asia,9,5,April,Not Repurchased,1,YES
+728,11729,payne@xyz.com,March,10,10,60,Europe,110,100,Not Left,Not Repurchased,Not Left,NO
+729,11730,drew@gmail.com,March,1,1,1,Asia,0,4,April,Not Repurchased,1,YES
+730,11731,warren@xyz.com,March,1,1,2,Asia,6,5,April,Not Repurchased,1,YES
+731,11732,davies@xyz.com,March,2,1,7,North America,15,8,Not Left,Not Repurchased,Not Left,NO
+732,11733,renee@gmail.com,March,10,10,90,North America,80,80,Not Left,Not Repurchased,Not Left,NO
+733,11734,chelsea@gmail.com,March,1,1,1,Asia,19,2,April,Not Repurchased,1,YES
+734,11735,elaine@xyz.com,March,1,1,1,North America,10,4,April,Not Repurchased,1,YES
+735,11736,clarkson@xyz.com,March,10,8,72,North America,56,64,Not Left,Not Repurchased,Not Left,NO
+736,11737,jesus@gmail.com,March,1,1,1,Asia,2,5,April,Not Repurchased,1,YES
+737,11738,gerald@gmail.com,March,1,1,2,Asia,3,5,April,Not Repurchased,1,YES
+738,11739,bob@xyz.com,March,1,1,1,Asia,5,5,April,Not Repurchased,1,YES
+739,11740,opal@xyz.com,March,10,2,2,Europe,12,4,April,Not Repurchased,1,YES
+740,11741,watson@xyz.com,March,5,5,40,North America,50,45,Not Left,Not Repurchased,Not Left,NO
+741,11742,dorothy@gmail.com,March,1,1,1,Asia,10,5,April,Not Repurchased,1,YES
+742,11743,hilda@xyz.com,March,2,2,4,North America,14,10,April,Not Repurchased,1,YES
+743,11744,powell@xyz.com,March,2,2,12,Asia,32,18,Not Left,Not Repurchased,Not Left,NO
+744,11745,jones@xyz.com,March,1,1,6,Europe,8,9,Not Left,Not Repurchased,Not Left,NO
+745,11746,gray@xyz.com,March,5,5,30,North America,40,40,Not Left,Not Repurchased,Not Left,NO
+746,11747,sanderson@xyz.com,March,5,5,30,North America,70,40,Not Left,Not Repurchased,Not Left,NO
+747,11748,lawrence@xyz.com,March,10,9,81,North America,126,90,Not Left,Not Repurchased,Not Left,NO
+748,11749,marshall@xyz.com,March,10,10,80,Europe,10,80,Not Left,Not Repurchased,Not Left,NO
+749,11750,scott@xyz.com,March,10,9,72,North America,81,72,Not Left,Not Repurchased,Not Left,NO
+750,11751,velma@xyz.com,March,2,1,1,Asia,12,5,April,Not Repurchased,1,YES
+751,11752,wilbur@xyz.com,March,5,2,1,Asia,8,6,April,Not Repurchased,1,YES
+752,11753,luis@xyz.com,March,10,3,6,Asia,57,12,April,Not Repurchased,1,YES
+753,11754,max@xyz.com,March,5,2,2,Asia,26,2,April,Not Repurchased,1,YES
+754,11755,springer@xyz.com,March,1,1,6,North America,15,10,Not Left,Not Repurchased,Not Left,NO
+755,11756,bailey@xyz.com,March,1,1,6,Europe,4,9,Not Left,Not Repurchased,Not Left,NO
+756,11757,ramon@xyz.com,March,1,1,1,Asia,0,4,April,Not Repurchased,1,YES
+757,11758,hardacre@xyz.com,March,2,1,8,North America,8,8,Not Left,Not Repurchased,Not Left,NO
+758,11759,clark@xyz.com,March,1,1,9,North America,7,10,Not Left,Not Repurchased,Not Left,NO
+759,11760,joy@xyz.com,March,1,1,1,Asia,4,1,April,Not Repurchased,1,YES
+760,11761,carr@xyz.com,March,2,2,16,North America,20,16,Not Left,Not Repurchased,Not Left,NO
+761,11762,theresa@gmail.com,March,1,1,1,Asia,13,1,April,Not Repurchased,1,YES
+762,11763,gibson@xyz.com,March,5,4,32,Europe,60,36,Not Left,Not Repurchased,Not Left,NO
+763,11764,hill@xyz.com,March,5,5,35,Europe,90,40,Not Left,Not Repurchased,Not Left,NO
+764,11765,jeff@gmail.com,March,1,1,1,Asia,13,1,April,Not Repurchased,1,YES
+765,11766,sylvia@gmail.com,March,1,1,1,Asia,13,2,April,Not Repurchased,1,YES
+766,11767,elias@xyz.com,March,2,1,1,Asia,20,4,April,Not Repurchased,1,YES
+767,11768,kerr@xyz.com,March,10,8,64,Europe,160,72,Not Left,Not Repurchased,Not Left,NO
+768,11769,tyrone@xyz.com,March,1,1,2,Asia,7,5,April,Not Repurchased,1,YES
+769,11770,smith@xyz.com,March,10,9,63,North America,63,81,Not Left,Not Repurchased,Not Left,NO
+770,11771,keith@xyz.com,March,1,1,2,Asia,17,3,April,Not Repurchased,1,YES
+771,11772,hardacre@xyz.com,March,5,5,35,Europe,30,50,Not Left,Not Repurchased,Not Left,NO
+772,11773,carlos@gmail.com,March,10,8,56,North America,104,16,Not Left,Not Repurchased,Not Left,NO
+773,11774,parsons@xyz.com,March,2,2,16,Europe,38,18,Not Left,Not Repurchased,Not Left,NO
+774,11775,karl@gmail.com,March,1,1,2,Asia,8,5,April,Not Repurchased,1,YES
+775,11776,randall@xyz.com,March,1,1,9,North America,8,8,Not Left,Not Repurchased,Not Left,NO
+776,11777,tommy@gmail.com,March,1,1,1,Asia,20,2,April,Not Repurchased,1,YES
+777,11778,elvira@xyz.com,March,10,1,1,North America,7,4,April,Not Repurchased,1,YES
+778,11779,armando@xyz.com,March,1,1,1,North America,18,2,April,Not Repurchased,1,YES
+779,11780,monique@xyz.com,March,1,1,1,Europe,14,4,April,Not Repurchased,1,YES
+780,11781,chelsea@xyz.com,March,2,2,4,Europe,34,4,April,Not Repurchased,1,YES
+781,11782,hugh@xyz.com,March,2,2,1,North America,6,10,April,Not Repurchased,1,YES
+782,11783,rees@xyz.com,March,2,2,12,North America,6,18,Not Left,Not Repurchased,Not Left,NO
+783,11784,marshall@gmail.com,March,1,1,2,Asia,0,4,April,Not Repurchased,1,YES
+784,11785,gerardo@gmail.com,March,1,1,1,Asia,17,5,April,Not Repurchased,1,YES
+785,11786,jeremiah@gmail.com,March,1,1,1,Asia,17,5,April,Not Repurchased,1,YES
+786,11787,mae@yahoo.com,March,5,1,9,North America,19,8,Not Left,Not Repurchased,Not Left,NO
+787,11788,greene@xyz.com,March,1,1,9,North America,5,10,Not Left,Not Repurchased,Not Left,NO
+788,11789,martin@xyz.com,March,10,7,63,Asia,21,56,Not Left,Not Repurchased,Not Left,NO
+789,11790,gloria@gmail.com,March,1,1,2,Asia,12,4,April,Not Repurchased,1,YES
+790,11791,laverne@xyz.com,March,10,2,4,Asia,32,10,April,Not Repurchased,1,YES
+791,11792,amos@xyz.com,March,5,5,1,North America,55,10,April,Not Repurchased,1,YES
+792,11793,marion@xyz.com,March,10,3,3,Asia,24,6,April,Not Repurchased,1,YES
+793,11794,paul@xyz.com,March,5,5,5,North America,5,15,April,Not Repurchased,1,YES
+794,11795,rosie@xyz.com,March,1,1,2,North America,20,5,April,Not Repurchased,1,YES
+795,11796,clarkson@xyz.com,March,1,1,7,North America,11,10,Not Left,Not Repurchased,Not Left,NO
+796,11797,forsyth@xyz.com,March,2,2,18,Europe,16,18,Not Left,Not Repurchased,Not Left,NO
+797,11798,jennifer@gmail.com,March,1,1,2,Asia,15,3,April,Not Repurchased,1,YES
+798,11799,north@xyz.com,March,5,4,36,North America,16,36,Not Left,Not Repurchased,Not Left,NO
+799,11800,johnny@gmail.com,March,1,1,2,Asia,6,5,April,Not Repurchased,1,YES
+800,11801,gray@xyz.com,March,1,1,9,Asia,1,10,Not Left,Not Repurchased,Not Left,NO
+801,11802,miller@xyz.com,March,5,5,40,North America,85,50,Not Left,Not Repurchased,Not Left,NO
+802,11803,scott@xyz.com,March,10,10,90,North America,30,100,Not Left,Not Repurchased,Not Left,NO
+803,11804,lyle@xyz.com,March,5,4,8,Europe,36,20,April,Not Repurchased,1,YES
+804,11805,reid@xyz.com,March,5,5,35,Europe,75,45,Not Left,Not Repurchased,Not Left,NO
+805,11806,white@xyz.com,March,1,1,6,North America,14,9,Not Left,Not Repurchased,Not Left,NO
+806,11807,martha@xyz.com,March,5,2,1,Asia,32,4,April,Not Repurchased,1,YES
+807,11808,russell@xyz.com,March,10,7,49,North America,70,56,Not Left,Not Repurchased,Not Left,NO
+808,11809,metcalfe@xyz.com,March,1,1,6,Europe,17,10,Not Left,Not Repurchased,Not Left,NO
+809,11810,churchill@xyz.com,March,10,7,42,North America,91,63,Not Left,Not Repurchased,Not Left,NO
+810,11811,dyer@xyz.com,March,1,1,8,Europe,9,10,Not Left,Not Repurchased,Not Left,NO
+811,11812,viola@yahoo.com,March,2,2,18,North America,36,16,Not Left,Not Repurchased,Not Left,NO
+812,11813,harry@xyz.com,March,10,10,10,North America,120,10,April,Not Repurchased,1,YES
+813,11814,gibson@xyz.com,March,1,1,9,North America,4,8,Not Left,Not Repurchased,Not Left,NO
+814,11815,ryan@gmail.com,March,10,9,81,North America,171,99,Not Left,Not Repurchased,Not Left,NO
+815,11816,butler@xyz.com,March,10,10,90,Asia,80,100,Not Left,Not Repurchased,Not Left,NO
+816,11817,jill@xyz.com,March,5,4,8,Europe,72,12,April,Not Repurchased,1,YES
+817,11818,suzanne@xyz.com,March,10,7,7,North America,84,35,April,Not Repurchased,1,YES
+818,11819,nicole@gmail.com,March,5,5,30,North America,90,45,Not Left,Not Repurchased,Not Left,NO
+819,11820,marcella@xyz.com,March,2,2,4,Europe,36,10,April,Not Repurchased,1,YES
+820,11821,hardacre@xyz.com,March,1,1,6,North America,20,8,Not Left,Not Repurchased,Not Left,NO
+821,11822,jonathon@gmail.com,March,5,4,28,North America,44,40,Not Left,Not Repurchased,Not Left,NO
+822,11823,ida@xyz.com,March,10,4,1,Asia,0,20,April,Not Repurchased,1,YES
+823,11824,cornish@xyz.com,March,5,4,28,Europe,8,40,Not Left,Not Repurchased,Not Left,NO
+824,11825,chapman@xyz.com,March,10,8,56,Europe,56,72,Not Left,Not Repurchased,Not Left,NO
+825,11826,guadalupe@gmail.com,March,2,2,14,North America,18,28,Not Left,Not Repurchased,Not Left,NO
+826,11827,metcalfe@xyz.com,March,10,7,49,Europe,98,63,Not Left,Not Repurchased,Not Left,NO
+827,11828,taylor@xyz.com,March,1,1,9,North America,0,9,Not Left,Not Repurchased,Not Left,NO
+828,11829,kerr@xyz.com,March,1,1,7,North America,18,8,Not Left,Not Repurchased,Not Left,NO
+829,11830,oliver@xyz.com,March,2,2,16,North America,10,16,Not Left,Not Repurchased,Not Left,NO
+830,11831,slater@xyz.com,March,5,5,45,Asia,55,45,Not Left,Not Repurchased,Not Left,NO
+831,11832,forsyth@xyz.com,March,5,4,32,Europe,48,36,Not Left,Not Repurchased,Not Left,NO
+832,11833,dallas@xyz.com,March,10,4,8,Europe,28,20,April,Not Repurchased,1,YES
+833,11834,scott@xyz.com,March,2,2,14,Europe,40,20,Not Left,Not Repurchased,Not Left,NO
+834,11835,kerr@xyz.com,March,2,2,14,North America,10,18,Not Left,Not Repurchased,Not Left,NO
+835,11836,turner@xyz.com,March,1,1,7,North America,12,9,Not Left,Not Repurchased,Not Left,NO
+836,11837,hughes@xyz.com,March,10,8,72,Europe,24,72,Not Left,Not Repurchased,Not Left,NO
+837,11838,charlene@xyz.com,March,5,2,1,Asia,32,4,April,Not Repurchased,1,YES
+838,11839,ann@xyz.com,March,1,1,1,Europe,13,2,April,Not Repurchased,1,YES
+839,11840,robertson@xyz.com,March,1,1,9,Europe,15,8,Not Left,Not Repurchased,Not Left,NO
+840,11841,vaughan@xyz.com,March,5,5,35,North America,55,40,Not Left,Not Repurchased,Not Left,NO
+841,11842,lionel@gmail.com,March,2,2,14,North America,12,20,Not Left,Not Repurchased,Not Left,NO
+842,11843,underwood@xyz.com,March,2,2,14,Asia,22,18,Not Left,Not Repurchased,Not Left,NO
+843,11844,roberts@xyz.com,March,2,2,14,Europe,10,16,Not Left,Not Repurchased,Not Left,NO
+844,11845,gill@xyz.com,March,2,2,16,North America,34,16,Not Left,Not Repurchased,Not Left,NO
+845,11846,king@xyz.com,March,5,4,32,North America,68,32,Not Left,Not Repurchased,Not Left,NO
+846,11847,gill@xyz.com,March,2,2,16,North America,0,16,Not Left,Not Repurchased,Not Left,NO
+847,11848,wright@xyz.com,March,1,1,6,North America,20,10,Not Left,Not Repurchased,Not Left,NO
+848,11849,robert@xyz.com,March,10,3,3,Asia,18,9,April,Not Repurchased,1,YES
+849,11850,scott@xyz.com,March,10,7,42,Europe,98,56,Not Left,Not Repurchased,Not Left,NO
+850,11851,clarkson@xyz.com,March,1,1,8,Europe,2,10,Not Left,Not Repurchased,Not Left,NO
+851,11852,henderson@xyz.com,March,5,4,24,Europe,0,40,Not Left,Not Repurchased,Not Left,NO
+852,11853,rafael@xyz.com,March,10,4,1,Europe,16,20,April,Not Repurchased,1,YES
+853,11854,cameron@xyz.com,March,5,5,45,North America,75,45,Not Left,Not Repurchased,Not Left,NO
+854,11855,marshall@xyz.com,March,1,1,2,North America,20,4,April,Not Repurchased,1,YES
+855,11856,blake@xyz.com,March,1,1,7,North America,7,9,Not Left,Not Repurchased,Not Left,NO
+856,11857,megan@gmail.com,March,5,5,40,North America,50,50,Not Left,Not Repurchased,Not Left,NO
+857,11858,vaughan@xyz.com,March,1,1,8,Europe,3,10,Not Left,Not Repurchased,Not Left,NO
+858,11859,mills@xyz.com,March,1,1,8,North America,7,9,Not Left,Not Repurchased,Not Left,NO
+859,11860,carr@xyz.com,March,5,4,28,North America,80,32,Not Left,Not Repurchased,Not Left,NO
+860,11861,nick@gmail.com,March,1,1,6,North America,19,10,Not Left,Not Repurchased,Not Left,NO
+861,11862,jerome@gmail.com,March,5,4,36,North America,68,32,Not Left,Not Repurchased,Not Left,NO
+862,11863,ferguson@xyz.com,March,10,8,64,Europe,152,64,Not Left,Not Repurchased,Not Left,NO
+863,11864,louise@yahoo.com,March,10,10,90,North America,60,80,Not Left,Not Repurchased,Not Left,NO
+864,11865,frances@yahoo.com,March,1,1,9,North America,0,9,Not Left,Not Repurchased,Not Left,NO
+865,11866,floyd@xyz.com,March,2,1,1,Europe,18,2,April,Not Repurchased,1,YES
+866,11867,tony@gmail.com,March,1,1,2,Asia,11,5,April,Not Repurchased,1,YES
+867,11868,terry@xyz.com,March,2,2,14,Asia,12,16,Not Left,Not Repurchased,Not Left,NO
+868,11869,vaughan@xyz.com,March,2,2,16,North America,40,18,Not Left,Not Repurchased,Not Left,NO
+869,11870,alexander@gmail.com,March,1,1,1,Asia,12,1,April,Not Repurchased,1,YES
+870,11871,thomas@xyz.com,March,2,1,1,Asia,13,1,April,Not Repurchased,1,YES
+871,11872,campbell@xyz.com,March,2,2,14,North America,4,16,Not Left,Not Repurchased,Not Left,NO
+872,11873,short@xyz.com,March,2,2,14,Europe,10,18,Not Left,Not Repurchased,Not Left,NO
+873,11874,barbara@yahoo.com,March,10,7,63,North America,119,70,Not Left,Not Repurchased,Not Left,NO
+874,11875,juana@yahoo.com,March,1,1,6,North America,20,10,Not Left,Not Repurchased,Not Left,NO
+875,11876,jimmy@xyz.com,March,1,1,2,Asia,8,3,April,Not Repurchased,1,YES
+876,11877,sutherland@xyz.com,March,2,2,12,Europe,0,18,Not Left,Not Repurchased,Not Left,NO
+877,11878,hardacre@xyz.com,March,2,2,18,Europe,22,18,Not Left,Not Repurchased,Not Left,NO
+878,11879,macleod@xyz.com,March,5,4,24,North America,64,36,Not Left,Not Repurchased,Not Left,NO
+879,11880,churchill@xyz.com,March,10,7,49,Europe,105,63,Not Left,Not Repurchased,Not Left,NO
+880,11881,isaac@xyz.com,March,2,2,2,North America,40,4,April,Not Repurchased,1,YES
+881,11882,rutherford@xyz.com,March,5,4,24,Europe,72,36,Not Left,Not Repurchased,Not Left,NO
+882,11883,susan@gmail.com,March,5,5,35,North America,35,20,Not Left,Not Repurchased,Not Left,NO
+883,11884,kathleen@xyz.com,March,5,5,10,North America,55,25,April,Not Repurchased,1,YES
+884,11885,wendy@xyz.com,March,5,5,1,North America,5,10,April,Not Repurchased,1,YES
+885,11886,rees@xyz.com,March,1,1,7,Europe,0,8,Not Left,Not Repurchased,Not Left,NO
+886,11887,ellison@xyz.com,March,5,4,32,North America,4,40,Not Left,Not Repurchased,Not Left,NO
+887,11888,winifred@gmail.com,March,5,5,30,North America,50,40,Not Left,Not Repurchased,Not Left,NO
+888,11889,bond@xyz.com,March,1,1,6,North America,8,9,Not Left,Not Repurchased,Not Left,NO
+889,11890,scarie@gmail.com,March,1,1,2,Asia,11,4,April,Not Repurchased,1,YES
+890,11891,kerr@xyz.com,March,10,10,60,Asia,70,80,Not Left,Not Repurchased,Not Left,NO
+891,11892,grant@xyz.com,March,2,2,16,Europe,28,16,Not Left,Not Repurchased,Not Left,NO
+892,11893,hardacre@xyz.com,March,10,8,72,North America,136,72,Not Left,Not Repurchased,Not Left,NO
+893,11894,dowd@xyz.com,March,10,8,64,Asia,40,72,Not Left,Not Repurchased,Not Left,NO
+894,11895,parr@xyz.com,March,5,4,28,Europe,8,40,Not Left,Not Repurchased,Not Left,NO
+895,11896,glover@xyz.com,March,5,5,35,Europe,65,50,Not Left,Not Repurchased,Not Left,NO
+896,11897,abraham@xyz.com,March,1,1,7,Asia,12,9,Not Left,Not Repurchased,Not Left,NO
+897,11898,jean@xyz.com,March,10,10,1,North America,190,50,April,Not Repurchased,1,YES
+898,11899,chelsea@yahoo.com,March,10,7,56,North America,91,63,Not Left,Not Repurchased,Not Left,NO
+899,11900,maxine@gmail.com,March,1,1,1,Asia,2,4,April,Not Repurchased,1,YES
+900,11901,white@xyz.com,March,1,1,6,Asia,4,8,Not Left,Not Repurchased,Not Left,NO
+901,11902,dyer@xyz.com,March,1,1,9,Asia,3,9,Not Left,Not Repurchased,Not Left,NO
+902,11903,lee@xyz.com,March,5,4,36,Europe,20,40,Not Left,Not Repurchased,Not Left,NO
+903,11904,kelly@xyz.com,March,10,10,60,North America,70,100,Not Left,Not Repurchased,Not Left,NO
+904,11905,levi@xyz.com,March,10,8,1,North America,96,8,April,Not Repurchased,1,YES
+905,11906,clark@xyz.com,March,1,1,9,North America,15,10,Not Left,Not Repurchased,Not Left,NO
+906,11907,thomson@xyz.com,March,5,4,32,North America,76,32,Not Left,Not Repurchased,Not Left,NO
+907,11908,carole@xyz.com,March,10,4,1,Asia,36,20,April,Not Repurchased,1,YES
+908,11909,eunice@xyz.com,March,2,1,1,Europe,3,4,April,Not Repurchased,1,YES
+909,11910,vaughan@xyz.com,March,1,1,8,North America,18,10,Not Left,Not Repurchased,Not Left,NO
+910,11911,burgess@xyz.com,March,10,10,80,North America,160,100,Not Left,Not Repurchased,Not Left,NO
+911,11912,davies@xyz.com,March,1,1,9,North America,19,8,Not Left,Not Repurchased,Not Left,NO
+912,11913,kenneth@gmail.com,March,10,7,56,North America,105,56,Not Left,Not Repurchased,Not Left,NO
+913,11914,harris@xyz.com,March,2,2,14,North America,38,18,Not Left,Not Repurchased,Not Left,NO
+914,11915,cornish@xyz.com,March,2,2,18,North America,6,18,Not Left,Not Repurchased,Not Left,NO
+915,11916,kerr@xyz.com,March,10,9,81,North America,180,90,Not Left,Not Repurchased,Not Left,NO
+916,11917,rees@xyz.com,March,2,2,12,Europe,36,18,Not Left,Not Repurchased,Not Left,NO
+917,11918,sanderson@xyz.com,March,2,2,16,Europe,22,16,Not Left,Not Repurchased,Not Left,NO
+918,11919,mable@gmail.com,March,1,1,1,Asia,0,2,April,Not Repurchased,1,YES
+919,11920,lawrence@xyz.com,March,5,4,24,Europe,0,40,Not Left,Not Repurchased,Not Left,NO
+920,11921,gray@xyz.com,March,2,2,12,Asia,4,20,Not Left,Not Repurchased,Not Left,NO
+921,11922,duncan@xyz.com,March,1,1,8,Europe,5,9,Not Left,Not Repurchased,Not Left,NO
+922,11923,jackson@xyz.com,March,10,9,81,North America,126,81,Not Left,Not Repurchased,Not Left,NO
+923,11924,hill@xyz.com,March,5,4,28,North America,68,40,Not Left,Not Repurchased,Not Left,NO
+924,11925,james@xyz.com,March,10,10,90,Europe,160,100,Not Left,Not Repurchased,Not Left,NO
+925,11926,homer@gmail.com,March,10,7,42,North America,98,56,Not Left,Not Repurchased,Not Left,NO
+926,11927,roberts@xyz.com,March,5,4,28,Europe,44,40,Not Left,Not Repurchased,Not Left,NO
+927,11928,skinner@xyz.com,March,1,1,9,Europe,2,9,Not Left,Not Repurchased,Not Left,NO
+928,11929,hudson@xyz.com,March,2,2,16,Europe,40,20,Not Left,Not Repurchased,Not Left,NO
+929,11930,blake@xyz.com,March,1,1,9,Asia,19,9,Not Left,Not Repurchased,Not Left,NO
+930,11931,walsh@xyz.com,March,10,7,63,Europe,140,56,Not Left,Not Repurchased,Not Left,NO
+931,11932,springer@xyz.com,March,5,4,28,Europe,44,32,Not Left,Not Repurchased,Not Left,NO
+932,11933,thomson@xyz.com,March,10,7,42,Asia,35,56,Not Left,Not Repurchased,Not Left,NO
+933,11934,simpson@xyz.com,March,5,5,35,Europe,40,40,Not Left,Not Repurchased,Not Left,NO
+934,11935,geraldine@xyz.com,March,1,1,1,Europe,7,1,April,Not Repurchased,1,YES
+935,11936,ross@xyz.com,March,1,1,7,Europe,0,10,Not Left,Not Repurchased,Not Left,NO
+936,11937,taylor@xyz.com,March,1,1,6,North America,7,9,Not Left,Not Repurchased,Not Left,NO
+937,11938,ball@xyz.com,March,2,2,14,Asia,6,20,Not Left,Not Repurchased,Not Left,NO
+938,11939,freda@gmail.com,March,1,1,1,Asia,5,3,April,Not Repurchased,1,YES
+939,11940,harris@xyz.com,March,1,1,8,Asia,16,8,Not Left,Not Repurchased,Not Left,NO
+940,11941,newman@xyz.com,March,10,10,70,North America,30,90,Not Left,Not Repurchased,Not Left,NO
+941,11942,king@xyz.com,March,2,2,14,North America,22,18,Not Left,Not Repurchased,Not Left,NO
+942,11943,lena@yahoo.com,March,2,2,16,North America,22,16,Not Left,Not Repurchased,Not Left,NO
+943,11944,sharp@xyz.com,March,5,5,40,North America,45,45,Not Left,Not Repurchased,Not Left,NO
+944,11945,hector@xyz.com,March,2,1,1,Asia,1,1,April,Not Repurchased,1,YES
+945,11946,ross@xyz.com,March,10,8,64,North America,32,64,Not Left,Not Repurchased,Not Left,NO
+946,11947,harris@xyz.com,March,10,8,72,Europe,120,72,Not Left,Not Repurchased,Not Left,NO
+947,11948,white@xyz.com,March,2,2,12,Europe,24,16,Not Left,Not Repurchased,Not Left,NO
+948,11949,rutherford@xyz.com,March,2,2,14,North America,0,18,Not Left,Not Repurchased,Not Left,NO
+949,11950,oliver@xyz.com,March,1,1,8,Europe,5,8,Not Left,Not Repurchased,Not Left,NO
+950,11951,lambert@xyz.com,March,2,2,18,Europe,2,16,Not Left,Not Repurchased,Not Left,NO
+951,11952,mills@xyz.com,March,1,1,9,North America,6,8,Not Left,Not Repurchased,Not Left,NO
+952,11953,alsop@xyz.com,March,2,2,12,North America,24,20,Not Left,Not Repurchased,Not Left,NO
+953,11954,wright@xyz.com,March,1,1,8,Asia,6,9,Not Left,Not Repurchased,Not Left,NO
+954,11955,gary@xyz.com,March,10,4,8,Asia,56,8,April,Not Repurchased,1,YES
+955,11956,underwood@xyz.com,March,10,7,49,Europe,91,70,Not Left,Not Repurchased,Not Left,NO
+956,11957,ray@yahoo.com,March,2,2,18,North America,22,26,Not Left,Not Repurchased,Not Left,NO
+957,11958,carmen@xyz.com,March,10,2,2,Asia,16,4,April,Not Repurchased,1,YES
+958,11959,mackay@xyz.com,March,2,1,9,Europe,8,8,Not Left,Not Repurchased,Not Left,NO
+959,11960,dyer@xyz.com,March,5,4,28,North America,8,32,Not Left,Not Repurchased,Not Left,NO
+960,11961,parr@xyz.com,March,10,10,80,North America,190,100,Not Left,Not Repurchased,Not Left,NO
+961,11962,ruth@gmail.com,March,5,3,18,North America,33,27,Not Left,Not Repurchased,Not Left,NO
+962,11963,short@xyz.com,March,10,8,56,Europe,8,80,Not Left,Not Repurchased,Not Left,NO
+963,11964,abraham@xyz.com,March,2,2,16,Europe,4,18,Not Left,Not Repurchased,Not Left,NO
+964,11965,payne@xyz.com,March,5,5,30,North America,65,45,Not Left,Not Repurchased,Not Left,NO
+965,11966,johnnie@xyz.com,March,1,1,1,Asia,17,5,April,Not Repurchased,1,YES
+966,11967,king@xyz.com,March,5,4,28,North America,72,32,Not Left,Not Repurchased,Not Left,NO
+967,11968,parsons@xyz.com,March,2,2,12,North America,28,20,Not Left,Not Repurchased,Not Left,NO
+968,11969,metcalfe@xyz.com,March,1,1,6,Europe,12,9,Not Left,Not Repurchased,Not Left,NO
+969,11970,abraham@xyz.com,March,5,4,28,North America,28,40,Not Left,Not Repurchased,Not Left,NO
+970,11971,margaret@xyz.com,March,2,2,4,Europe,12,4,April,Not Repurchased,1,YES
+971,11972,kerr@xyz.com,March,2,2,14,North America,16,16,Not Left,Not Repurchased,Not Left,NO
+972,11973,diana@gmail.com,March,1,1,1,Asia,18,3,April,Not Repurchased,1,YES
+973,11974,arlene@xyz.com,March,2,1,2,Asia,14,3,April,Not Repurchased,1,YES
+974,11975,carr@xyz.com,March,5,4,32,Europe,12,36,Not Left,Not Repurchased,Not Left,NO
+975,11976,kerr@xyz.com,March,1,1,9,Asia,18,9,Not Left,Not Repurchased,Not Left,NO
+976,11977,peake@xyz.com,March,1,1,7,North America,11,8,Not Left,Not Repurchased,Not Left,NO
+977,11978,amanda@gmail.com,March,5,4,28,North America,32,32,Not Left,Not Repurchased,Not Left,NO
+978,11979,gwendolyn@gmail.com,March,1,1,2,Asia,9,1,April,Not Repurchased,1,YES
+979,11980,howard@xyz.com,March,10,10,80,North America,170,100,Not Left,Not Repurchased,Not Left,NO
+980,11981,randall@gmail.com,March,5,5,35,North America,10,45,Not Left,Not Repurchased,Not Left,NO
+981,11982,elijah@gmail.com,March,1,1,1,Asia,0,2,April,Not Repurchased,1,YES
+982,11983,delia@xyz.com,March,5,2,1,Asia,26,2,April,Not Repurchased,1,YES
+983,11984,campbell@xyz.com,March,2,1,6,Europe,4,9,Not Left,Not Repurchased,Not Left,NO
+984,11985,jodi@gmail.com,March,5,5,30,North America,35,50,Not Left,Not Repurchased,Not Left,NO
+985,11986,edmunds@xyz.com,March,2,2,18,Europe,32,18,Not Left,Not Repurchased,Not Left,NO
+986,11987,parr@xyz.com,March,10,10,60,North America,160,100,Not Left,Not Repurchased,Not Left,NO
+987,11988,rampling@xyz.com,March,1,1,9,Europe,10,10,Not Left,Not Repurchased,Not Left,NO
+988,11989,howard@xyz.com,March,1,1,7,North America,10,8,Not Left,Not Repurchased,Not Left,NO
+989,11990,james@xyz.com,March,5,5,35,Europe,80,50,Not Left,Not Repurchased,Not Left,NO
+990,11991,sanderson@xyz.com,March,2,2,16,Europe,36,20,Not Left,Not Repurchased,Not Left,NO
+991,11992,peggy@yahoo.com,March,10,9,81,North America,18,108,Not Left,Not Repurchased,Not Left,NO
+992,11993,krista@xyz.com,March,1,1,1,Asia,18,1,April,Not Repurchased,1,YES
+993,11994,grant@xyz.com,March,5,4,24,Asia,28,32,Not Left,Not Repurchased,Not Left,NO
+994,11995,pearl@xyz.com,March,5,4,4,Europe,60,20,April,Not Repurchased,1,YES
+995,11996,turner@xyz.com,March,10,7,49,North America,63,70,Not Left,Not Repurchased,Not Left,NO
+996,11997,sergio@xyz.com,March,1,1,2,Asia,20,2,April,Not Repurchased,1,YES
+997,11998,dowd@xyz.com,March,5,5,45,Europe,70,50,Not Left,Not Repurchased,Not Left,NO
+998,11999,welch@xyz.com,March,10,8,56,North America,72,64,Not Left,Not Repurchased,Not Left,NO
+999,12000,scott@xyz.com,March,5,5,35,North America,40,50,Not Left,Not Repurchased,Not Left,NO
+1000,12001,dale@xyz.com,March,10,3,6,Asia,30,3,April,Not Repurchased,1,YES
+1001,12002,danielle@xyz.com,March,10,2,2,Asia,2,4,April,Not Repurchased,1,YES
+1002,12003,robertson@xyz.com,March,10,8,56,Asia,88,72,Not Left,Not Repurchased,Not Left,NO
+1003,12004,nolan@xyz.com,March,2,2,14,Asia,10,18,Not Left,Not Repurchased,Not Left,NO
+1004,12005,reid@xyz.com,March,10,9,72,North America,108,90,Not Left,Not Repurchased,Not Left,NO
+1005,12006,simpson@xyz.com,March,1,1,7,Europe,9,9,Not Left,Not Repurchased,Not Left,NO
+1006,12007,henderson@xyz.com,March,10,9,54,Europe,90,72,Not Left,Not Repurchased,Not Left,NO
+1007,12008,parsons@xyz.com,March,10,7,49,Asia,91,63,Not Left,Not Repurchased,Not Left,NO
+1008,12009,randall@xyz.com,March,2,2,14,Asia,26,20,Not Left,Not Repurchased,Not Left,NO
+1009,12010,coleman@xyz.com,March,2,2,16,Europe,16,16,Not Left,Not Repurchased,Not Left,NO
+1010,12011,may@xyz.com,March,10,10,70,North America,120,100,Not Left,Not Repurchased,Not Left,NO
+1011,12012,sutherland@xyz.com,March,1,1,6,North America,13,10,Not Left,Not Repurchased,Not Left,NO
+1012,12013,murray@xyz.com,March,2,2,16,North America,34,18,Not Left,Not Repurchased,Not Left,NO
+1013,12014,clarkson@xyz.com,March,5,5,30,North America,70,40,Not Left,Not Repurchased,Not Left,NO
+1014,12015,fisher@xyz.com,March,10,10,70,North America,130,80,Not Left,Not Repurchased,Not Left,NO
+1015,12016,brown@xyz.com,March,5,4,28,Asia,72,40,Not Left,Not Repurchased,Not Left,NO
+1016,12017,slater@xyz.com,March,1,1,6,Europe,16,10,Not Left,Not Repurchased,Not Left,NO
+1017,12018,roger@yahoo.com,March,10,9,63,North America,27,90,Not Left,Not Repurchased,Not Left,NO
+1018,12019,johnnie@xyz.com,March,1,1,1,Asia,14,5,April,Not Repurchased,1,YES
+1019,12020,avery@xyz.com,March,5,4,24,Europe,4,36,Not Left,Not Repurchased,Not Left,NO
+1020,12021,mitchell@xyz.com,March,5,5,40,Europe,65,45,Not Left,Not Repurchased,Not Left,NO
+1021,12022,vaughan@xyz.com,March,10,9,81,North America,27,81,Not Left,Not Repurchased,Not Left,NO
+1022,12023,hugo@gmail.com,March,2,2,12,North America,14,16,Not Left,Not Repurchased,Not Left,NO
+1023,12024,tommie@xyz.com,March,10,4,8,Europe,24,20,April,Not Repurchased,1,YES
+1024,12025,sharp@xyz.com,March,2,2,18,Europe,10,16,Not Left,Not Repurchased,Not Left,NO
+1025,12026,hart@xyz.com,March,2,2,18,Europe,26,20,Not Left,Not Repurchased,Not Left,NO
+1026,12027,michelle@xyz.com,March,5,2,2,Asia,36,8,April,Not Repurchased,1,YES
+1027,12028,jackson@xyz.com,March,10,9,54,Europe,18,72,Not Left,Not Repurchased,Not Left,NO
+1028,12029,vance@xyz.com,March,10,8,64,Asia,128,80,Not Left,Not Repurchased,Not Left,NO
+1029,12030,mcgrath@xyz.com,March,10,8,48,Europe,80,72,Not Left,Not Repurchased,Not Left,NO
+1030,12031,payne@xyz.com,March,5,5,30,Europe,35,40,Not Left,Not Repurchased,Not Left,NO
+1031,12032,vaughan@xyz.com,March,2,2,12,North America,26,20,Not Left,Not Repurchased,Not Left,NO
+1032,12033,dora@xyz.com,March,10,4,8,Asia,72,20,April,Not Repurchased,1,YES
+1033,12034,young@xyz.com,March,5,4,36,North America,20,36,Not Left,Not Repurchased,Not Left,NO
+1034,12035,ebony@gmail.com,March,10,9,81,North America,153,90,Not Left,Not Repurchased,Not Left,NO
+1035,12036,short@xyz.com,March,10,7,63,Asia,21,63,Not Left,Not Repurchased,Not Left,NO
+1036,12037,harris@xyz.com,March,2,2,16,Europe,38,16,Not Left,Not Repurchased,Not Left,NO
+1037,12038,hemmings@xyz.com,March,1,1,6,North America,14,10,Not Left,Not Repurchased,Not Left,NO
+1038,12039,whitney@gmail.com,March,5,3,27,North America,21,24,Not Left,Not Repurchased,Not Left,NO
+1039,12040,jamie@gmail.com,March,1,1,1,Asia,16,5,April,Not Repurchased,1,YES
+1040,12041,gill@xyz.com,March,5,4,36,North America,4,40,Not Left,Not Repurchased,Not Left,NO
+1041,12042,black@xyz.com,March,2,2,12,North America,0,16,Not Left,Not Repurchased,Not Left,NO
+1042,12043,george@xyz.com,March,1,1,1,Asia,12,5,April,Not Repurchased,1,YES
+1043,12044,ashley@xyz.com,March,2,2,4,North America,26,6,April,Not Repurchased,1,YES
+1044,12045,katherine@yahoo.com,March,2,2,18,North America,36,18,Not Left,Not Repurchased,Not Left,NO
+1045,12046,robertson@xyz.com,March,10,9,63,Europe,180,81,Not Left,Not Repurchased,Not Left,NO
+1046,12047,margaret@gmail.com,March,1,1,1,Asia,3,2,April,Not Repurchased,1,YES
+1047,12048,fraser@xyz.com,March,2,2,16,North America,14,18,Not Left,Not Repurchased,Not Left,NO
+1048,12049,sandra@yahoo.com,March,10,7,49,North America,84,56,Not Left,Not Repurchased,Not Left,NO
+1049,12050,quinn@xyz.com,March,5,4,24,Asia,20,36,Not Left,Not Repurchased,Not Left,NO
+1050,12051,mona@xyz.com,March,10,2,4,Europe,10,2,April,Not Repurchased,1,YES
+1051,12052,billy@xyz.com,March,5,2,2,Asia,22,8,April,Not Repurchased,1,YES
+1052,12053,wright@xyz.com,March,10,7,49,Europe,49,56,Not Left,Not Repurchased,Not Left,NO
+1053,12054,hughes@xyz.com,March,2,2,12,Europe,0,18,Not Left,Not Repurchased,Not Left,NO
+1054,12055,metcalfe@xyz.com,March,5,5,45,Europe,60,45,Not Left,Not Repurchased,Not Left,NO
+1055,12056,janie@xyz.com,March,1,1,1,Asia,8,2,April,Not Repurchased,1,YES
+1056,12057,hughes@xyz.com,March,5,5,35,Asia,80,40,Not Left,Not Repurchased,Not Left,NO
+1057,12058,hughes@xyz.com,March,1,1,9,Europe,9,10,Not Left,Not Repurchased,Not Left,NO
+1058,12059,donald@gmail.com,March,1,1,1,Asia,9,3,April,Not Repurchased,1,YES
+1059,12060,erick@xyz.com,March,5,4,8,North America,0,16,April,Not Repurchased,1,YES
+1060,12061,mitchell@xyz.com,March,2,2,12,North America,8,16,Not Left,Not Repurchased,Not Left,NO
+1061,12062,casey@xyz.com,March,2,1,1,Asia,14,3,April,Not Repurchased,1,YES
+1062,12063,nolan@xyz.com,March,1,1,6,Europe,17,8,Not Left,Not Repurchased,Not Left,NO
+1063,12064,powell@xyz.com,March,5,5,40,Europe,70,50,Not Left,Not Repurchased,Not Left,NO
+1064,12065,tiffany@gmail.com,March,1,1,2,Asia,2,1,April,Not Repurchased,1,YES
+1065,12066,fisher@xyz.com,March,10,8,64,Europe,64,72,Not Left,Not Repurchased,Not Left,NO
+1066,12067,daryl@yahoo.com,March,5,5,35,North America,50,50,Not Left,Not Repurchased,Not Left,NO
+1067,12068,anderson@xyz.com,March,1,1,6,Europe,2,8,Not Left,Not Repurchased,Not Left,NO
+1068,12069,benjamin@gmail.com,March,1,1,1,Asia,19,2,April,Not Repurchased,1,YES
+1069,12070,carlton@xyz.com,March,1,1,2,North America,10,1,April,Not Repurchased,1,YES
+1070,12071,darlene@xyz.com,March,10,8,16,North America,8,8,April,Not Repurchased,1,YES
+1071,12072,carr@xyz.com,March,2,2,18,Europe,12,18,Not Left,Not Repurchased,Not Left,NO
+1072,12073,wilkins@xyz.com,March,2,2,14,Europe,34,20,Not Left,Not Repurchased,Not Left,NO
+1073,12074,gray@xyz.com,March,5,5,40,North America,65,40,Not Left,Not Repurchased,Not Left,NO
+1074,12075,jimmy@yahoo.com,March,10,7,42,North America,63,56,Not Left,Not Repurchased,Not Left,NO
+1075,12076,quinn@xyz.com,March,2,2,16,Europe,22,16,Not Left,Not Repurchased,Not Left,NO
+1076,12077,morrison@xyz.com,March,5,4,36,North America,44,32,Not Left,Not Repurchased,Not Left,NO
+1077,12078,sidney@gmail.com,March,2,2,16,North America,40,18,Not Left,Not Repurchased,Not Left,NO
+1078,12079,rees@xyz.com,March,10,8,48,Asia,120,80,Not Left,Not Repurchased,Not Left,NO
+1079,12080,hardacre@xyz.com,March,2,2,16,North America,38,20,Not Left,Not Repurchased,Not Left,NO
+1080,12081,melissa@gmail.com,March,10,9,72,North America,18,81,Not Left,Not Repurchased,Not Left,NO
+1081,12082,ferguson@xyz.com,March,10,10,70,Asia,90,80,Not Left,Not Repurchased,Not Left,NO
+1082,12083,fraser@xyz.com,March,2,2,18,North America,38,18,Not Left,Not Repurchased,Not Left,NO
+1083,12084,terry@xyz.com,March,1,1,6,Europe,20,10,Not Left,Not Repurchased,Not Left,NO
+1084,12085,campbell@xyz.com,March,1,1,9,Europe,16,10,Not Left,Not Repurchased,Not Left,NO
+1085,12086,monique@gmail.com,March,1,1,1,Asia,18,4,April,Not Repurchased,1,YES
+1086,12087,rufus@gmail.com,March,1,1,1,Asia,11,4,April,Not Repurchased,1,YES
+1087,12088,morgan@xyz.com,March,10,7,42,North America,105,56,Not Left,Not Repurchased,Not Left,NO
+1088,12089,brown@xyz.com,March,10,10,70,Europe,170,90,Not Left,Not Repurchased,Not Left,NO
+1089,12090,della@xyz.com,March,5,5,5,North America,15,25,April,Not Repurchased,1,YES
+1090,12091,piper@xyz.com,March,5,4,28,North America,64,32,Not Left,Not Repurchased,Not Left,NO
+1091,12092,quinn@xyz.com,March,2,2,14,North America,32,16,Not Left,Not Repurchased,Not Left,NO
+1092,12093,sean@xyz.com,March,2,2,1,Europe,38,2,April,Not Repurchased,1,YES
+1093,12094,courtney@yahoo.com,March,2,2,18,North America,32,20,Not Left,Not Repurchased,Not Left,NO
+1094,12095,welch@xyz.com,March,1,1,7,North America,13,10,Not Left,Not Repurchased,Not Left,NO
+1095,12096,lewis@xyz.com,March,2,2,14,North America,4,16,Not Left,Not Repurchased,Not Left,NO
+1096,12097,nolan@xyz.com,March,5,4,28,Asia,16,36,Not Left,Not Repurchased,Not Left,NO
+1097,12098,antonio@gmail.com,March,2,2,18,North America,22,16,Not Left,Not Repurchased,Not Left,NO
+1098,12099,morgan@xyz.com,March,1,1,8,Europe,15,9,Not Left,Not Repurchased,Not Left,NO
+1099,12100,allan@xyz.com,March,10,10,90,Europe,40,100,Not Left,Not Repurchased,Not Left,NO
+1100,12101,andres@gmail.com,March,1,1,2,Asia,0,2,April,Not Repurchased,1,YES
+1101,12102,kelly@xyz.com,March,5,2,4,Asia,4,2,April,Not Repurchased,1,YES
+1102,12103,mackay@xyz.com,March,10,10,60,Europe,90,90,Not Left,Not Repurchased,Not Left,NO
+1103,12104,forrest@yahoo.com,March,1,1,9,North America,8,9,Not Left,Not Repurchased,Not Left,NO
+1104,12105,springer@xyz.com,March,10,8,64,Asia,128,72,Not Left,Not Repurchased,Not Left,NO
+1105,12106,irma@xyz.com,March,2,2,1,North America,16,8,April,Not Repurchased,1,YES
+1106,12107,clarkson@xyz.com,March,1,1,9,Europe,4,10,Not Left,Not Repurchased,Not Left,NO
+1107,12108,ginger@yahoo.com,March,10,7,56,North America,14,119,Not Left,Not Repurchased,Not Left,NO
+1108,12109,alsop@xyz.com,March,10,8,48,North America,136,80,Not Left,Not Repurchased,Not Left,NO
+1109,12110,miller@xyz.com,March,10,8,64,Europe,48,72,Not Left,Not Repurchased,Not Left,NO
+1110,12111,robertson@xyz.com,March,5,5,30,Europe,70,40,Not Left,Not Repurchased,Not Left,NO
+1111,12112,king@xyz.com,March,2,2,14,Europe,36,20,Not Left,Not Repurchased,Not Left,NO
+1112,12113,stewart@xyz.com,March,2,2,18,Europe,18,20,Not Left,Not Repurchased,Not Left,NO
+1113,12114,fredrick@xyz.com,March,10,2,4,Asia,26,6,April,Not Repurchased,1,YES
+1114,12115,nadine@xyz.com,March,1,1,2,North America,2,2,April,Not Repurchased,1,YES
+1115,12116,north@xyz.com,March,1,1,8,North America,9,8,Not Left,Not Repurchased,Not Left,NO
+1116,12117,ken@xyz.com,March,5,4,1,Europe,60,16,April,Not Repurchased,1,YES
+1117,12118,ernestine@xyz.com,March,5,2,2,Asia,16,2,April,Not Repurchased,1,YES
+1118,12119,betty@xyz.com,March,10,4,8,Asia,12,12,April,Not Repurchased,1,YES
+1119,12120,paterson@xyz.com,March,1,1,6,Europe,5,8,Not Left,Not Repurchased,Not Left,NO
+1120,12121,allison@xyz.com,March,10,4,1,Asia,8,12,April,Not Repurchased,1,YES
+1121,12122,juanita@xyz.com,March,1,1,1,North America,19,5,April,May,1,NO
+1122,12123,taylor@xyz.com,March,2,2,12,North America,22,18,Not Left,Not Repurchased,Not Left,NO
+1123,12124,steven@xyz.com,March,5,5,10,North America,10,25,April,Not Repurchased,1,YES
+1124,12125,dorothy@xyz.com,March,10,3,1,North America,45,15,April,Not Repurchased,1,YES
+1125,12126,lawrence@xyz.com,March,10,10,90,Europe,140,100,Not Left,Not Repurchased,Not Left,NO
+1126,12127,marty@xyz.com,March,5,2,2,Europe,36,10,April,Not Repurchased,1,YES
+1127,12128,ginger@gmail.com,March,1,1,1,Asia,7,5,April,Not Repurchased,1,YES
+1128,12129,walker@xyz.com,March,5,4,36,North America,12,32,Not Left,Not Repurchased,Not Left,NO
+1129,12130,luke@gmail.com,March,1,1,6,North America,18,9,Not Left,Not Repurchased,Not Left,NO
+1130,12131,evan@xyz.com,March,1,1,2,Asia,2,1,April,Not Repurchased,1,YES
+1131,12132,edward@xyz.com,March,1,1,2,North America,11,4,April,Not Repurchased,1,YES
+1132,12133,baker@xyz.com,March,5,4,36,Europe,44,36,Not Left,Not Repurchased,Not Left,NO
+1133,12134,walker@xyz.com,March,10,9,72,Europe,117,72,Not Left,Not Repurchased,Not Left,NO
+1134,12135,scott@xyz.com,March,1,1,7,North America,10,9,Not Left,Not Repurchased,Not Left,NO
+1135,12136,ince@xyz.com,March,10,10,70,North America,130,90,Not Left,Not Repurchased,Not Left,NO
+1136,12137,wilbert@xyz.com,March,2,1,1,Asia,5,5,April,Not Repurchased,1,YES
+1137,12138,brown@xyz.com,March,1,1,6,Europe,12,10,Not Left,Not Repurchased,Not Left,NO
+1138,12139,slater@xyz.com,March,10,8,56,North America,32,80,Not Left,Not Repurchased,Not Left,NO
+1139,12140,james@xyz.com,March,10,8,72,Europe,96,64,Not Left,Not Repurchased,Not Left,NO
+1140,12141,colin@xyz.com,March,1,1,1,Asia,12,3,April,Not Repurchased,1,YES
+1141,12142,mable@xyz.com,March,10,10,4,North America,0,20,April,Not Repurchased,1,YES
+1142,12143,watson@xyz.com,March,2,2,12,North America,8,18,Not Left,Not Repurchased,Not Left,NO
+1143,12144,davies@xyz.com,March,5,4,24,North America,36,40,Not Left,Not Repurchased,Not Left,NO
+1144,12145,victor@gmail.com,March,1,1,1,Asia,19,2,April,Not Repurchased,1,YES
+1145,12146,sheri@xyz.com,March,5,2,2,Asia,2,4,April,Not Repurchased,1,YES
+1146,12147,lee@xyz.com,March,2,2,4,North America,10,6,April,Not Repurchased,1,YES
+1147,12148,langdon@xyz.com,March,10,7,56,North America,63,70,Not Left,Not Repurchased,Not Left,NO
+1148,12149,joseph@gmail.com,March,1,1,6,North America,16,8,Not Left,Not Repurchased,Not Left,NO
+1149,12150,mitchell@xyz.com,March,1,1,8,Asia,7,10,Not Left,Not Repurchased,Not Left,NO
+1150,12151,white@xyz.com,March,5,5,45,Europe,100,45,Not Left,Not Repurchased,Not Left,NO
+1151,12152,jack@gmail.com,March,1,1,2,Asia,3,4,April,Not Repurchased,1,YES
+1152,12153,don@xyz.com,March,5,2,2,Europe,32,2,April,Not Repurchased,1,YES
+1153,12154,newman@xyz.com,March,10,7,49,Europe,63,70,Not Left,Not Repurchased,Not Left,NO
+1154,12155,carrie@gmail.com,March,1,1,2,Asia,13,1,April,Not Repurchased,1,YES
+1155,12156,javier@gmail.com,March,1,1,1,Asia,11,2,April,Not Repurchased,1,YES
+1156,12157,gerard@xyz.com,March,5,2,2,Asia,22,10,April,Not Repurchased,1,YES
+1157,12158,elias@xyz.com,March,10,9,9,North America,153,36,April,Not Repurchased,1,YES
+1158,12159,hunter@xyz.com,March,2,2,18,Europe,34,16,Not Left,Not Repurchased,Not Left,NO
+1159,12160,james@xyz.com,March,5,4,32,North America,28,40,Not Left,Not Repurchased,Not Left,NO
+1160,12161,caleb@xyz.com,March,1,1,1,Asia,3,4,April,Not Repurchased,1,YES
+1161,12162,howard@xyz.com,March,2,2,12,North America,38,18,Not Left,Not Repurchased,Not Left,NO
+1162,12163,woodrow@xyz.com,March,10,4,4,Europe,76,20,April,Not Repurchased,1,YES
+1163,12164,mcgrath@xyz.com,March,5,4,24,Europe,20,32,Not Left,Not Repurchased,Not Left,NO
+1164,12165,slater@xyz.com,March,5,4,28,Asia,44,40,Not Left,Not Repurchased,Not Left,NO
+1165,12166,ince@xyz.com,March,1,1,6,North America,10,8,Not Left,Not Repurchased,Not Left,NO
+1166,12167,paterson@xyz.com,March,2,2,16,Europe,14,20,Not Left,Not Repurchased,Not Left,NO
+1167,12168,adam@gmail.com,March,10,7,42,North America,42,56,Not Left,Not Repurchased,Not Left,NO
+1168,12169,marco@xyz.com,March,10,4,8,Europe,16,8,April,Not Repurchased,1,YES
+1169,12170,baker@xyz.com,March,5,5,40,North America,85,50,Not Left,Not Repurchased,Not Left,NO
+1170,12171,rickey@xyz.com,March,5,2,1,Asia,10,6,April,Not Repurchased,1,YES
+1171,12172,hardacre@xyz.com,March,5,4,24,North America,64,36,Not Left,Not Repurchased,Not Left,NO
+1172,12173,chad@gmail.com,March,5,4,24,North America,12,36,Not Left,Not Repurchased,Not Left,NO
+1173,12174,wilkins@xyz.com,March,2,2,12,North America,8,18,Not Left,Not Repurchased,Not Left,NO
+1174,12175,brandi@xyz.com,March,2,1,2,Europe,10,2,April,Not Repurchased,1,YES
+1175,12176,tyrone@gmail.com,March,5,5,35,North America,55,45,Not Left,Not Repurchased,Not Left,NO
+1176,12177,davies@xyz.com,March,2,2,12,Asia,8,18,Not Left,Not Repurchased,Not Left,NO
+1177,12178,may@xyz.com,March,5,4,32,Europe,36,32,Not Left,Not Repurchased,Not Left,NO
+1178,12179,ross@xyz.com,March,5,5,45,Europe,15,45,Not Left,Not Repurchased,Not Left,NO
+1179,12180,cameron@xyz.com,March,2,2,18,Europe,4,18,Not Left,Not Repurchased,Not Left,NO
+1180,12181,clark@xyz.com,March,1,1,8,North America,13,9,Not Left,Not Repurchased,Not Left,NO
+1181,12182,lola@xyz.com,March,2,1,1,Asia,11,2,April,Not Repurchased,1,YES
+1182,12183,greene@xyz.com,March,10,9,54,Europe,135,81,Not Left,Not Repurchased,Not Left,NO
+1183,12184,elena@xyz.com,March,1,1,2,Asia,1,4,April,Not Repurchased,1,YES
+1184,12185,piper@xyz.com,March,2,2,14,North America,18,20,Not Left,Not Repurchased,Not Left,NO
+1185,12186,grady@xyz.com,March,5,2,4,Asia,40,2,April,Not Repurchased,1,YES
+1186,12187,macdonald@xyz.com,March,5,5,35,North America,25,40,Not Left,Not Repurchased,Not Left,NO
+1187,12188,alsop@xyz.com,March,2,2,16,Europe,18,20,Not Left,Not Repurchased,Not Left,NO
+1188,12189,wallace@xyz.com,March,5,5,45,North America,55,45,Not Left,Not Repurchased,Not Left,NO
+1189,12190,raymond@gmail.com,March,1,1,2,Asia,12,3,April,Not Repurchased,1,YES
+1190,12191,dianna@xyz.com,March,5,2,2,Asia,14,6,April,Not Repurchased,1,YES
+1191,12192,byron@gmail.com,March,1,1,1,Asia,18,3,April,Not Repurchased,1,YES
+1192,12193,gill@xyz.com,March,10,7,49,Europe,133,56,Not Left,Not Repurchased,Not Left,NO
+1193,12194,lambert@xyz.com,March,5,5,45,North America,70,40,Not Left,Not Repurchased,Not Left,NO
+1194,12195,mcgrath@xyz.com,March,2,2,14,Europe,4,16,Not Left,Not Repurchased,Not Left,NO
+1195,12196,wallace@xyz.com,March,10,9,72,Europe,9,72,Not Left,Not Repurchased,Not Left,NO
+1196,12197,marcia@gmail.com,March,1,1,9,North America,4,9,Not Left,Not Repurchased,Not Left,NO
+1197,12198,mitchell@gmail.com,March,2,2,14,North America,16,18,Not Left,Not Repurchased,Not Left,NO
+1198,12199,irvin@gmail.com,March,10,9,81,North America,135,90,Not Left,Not Repurchased,Not Left,NO
+1199,12200,thomson@xyz.com,March,5,4,28,Asia,80,32,Not Left,Not Repurchased,Not Left,NO
+1200,12201,blake@xyz.com,March,10,8,56,Europe,152,72,Not Left,Not Repurchased,Not Left,NO
